@@ -6,6 +6,7 @@
 - 📫 How to reach me: seyhunak [at] gmail com
 
 📊 **This week I spent my time on**
+<br>
 ![Waka Readme](https://github.com/seyhunak/seyhunak/workflows/Waka%20Readme/badge.svg)
 <!--START_SECTION:waka-->
 ```text
@@ -14,10 +15,14 @@ No Activity tracked this Week
 <!--END_SECTION:waka-->
 
 📕 **My Latest Blog Posts**
+<br>
+![Latest blog post workflow](https://github.com/seyhunak/seyhunak/workflows/Latest%20blog%20post%20workflow/badge.svg)
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
 📕 **My Latest StackOverflow Activity**
+<br>
+![Latest stack overflow activity](https://github.com/seyhunak/seyhunak/workflows/Latest%20stack%20overflow%20activity/badge.svg)
 <!-- STACKOVERFLOW:START -->
 <!-- STACKOVERFLOW:END -->
 
