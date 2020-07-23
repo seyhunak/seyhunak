@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: seyhunak/blog-post-workflow@master
+      - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "10"
           feed_list: "https://dev.to/feed/seyhunak,https://medium.com/feed/@seyhunak"
