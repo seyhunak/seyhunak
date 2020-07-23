@@ -6,6 +6,7 @@
 - 📫 How to reach me: seyhunak [at] gmail com
 
 📊 **This week I spent my time on**
+![Waka Readme](https://github.com/seyhunak/seyhunak/workflows/Waka%20Readme/badge.svg)
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
@@ -13,11 +14,11 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-# My Latest StackOverflow Activity
+📕 **My Latest StackOverflow Activity**
 <!-- STACKOVERFLOW:START -->
 <!-- STACKOVERFLOW:END -->
 
-### Hi there, I'm [Seyhun!](https://seyhunak.codes) 👋. ![](https://pronoun.cyou/x/y?subject=He&object=Him&height=20)
+### Hi there, I'm [Seyhun Akyürek!](https://seyhunak.codes) 👋. ![](https://pronoun.cyou/x/y?subject=He&object=Him&height=20)
 
 
 <br/>
@@ -45,8 +46,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=seyhunak.seyhunak)
 
-### I'm Seyhun Akyürek Mobile Team Lead from Turkey / Istanbul and Azerbaijan / Baku.
-**I am Into**
+### Currently working as Mobile Team Lead from Turkey / Istanbul and Azerbaijan / Baku.
 
 **IOS/Android. Coding with Swift, Objective-C, Kotlin**
 **Software Architecture, System Design, Moduler Design, Scalable Architecture**
