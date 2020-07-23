@@ -8,6 +8,9 @@
 📊 **This week I spent my time on**
 ![Waka Readme](https://github.com/seyhunak/seyhunak/workflows/Waka%20Readme/badge.svg)
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 📕 **My Latest Blog Posts**
