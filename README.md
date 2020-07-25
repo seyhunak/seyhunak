@@ -45,7 +45,10 @@
 ![Waka Readme](https://github.com/seyhunak/seyhunak/workflows/Waka%20Readme/badge.svg)
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 17 July, 2020 - 24 July, 2020
+
+Markdown   9 mins          ████████████████████████░   98.67 % 
+Swift      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
 ```
 <!--END_SECTION:waka-->
 
