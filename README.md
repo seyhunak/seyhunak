@@ -65,7 +65,6 @@ Swift      0 secs          ░░░░░░░░░░░░░░░░░�
 - [Terminal Configurations for iTerm2 with ZSH, Nerd Fonts and Powerlevel9K!](https://medium.com/seyhunakyurek/terminal-configurations-for-iterm2-with-zsh-nerd-fonts-and-powerlevel9k-8ed4193ac819?source=rss-192c1ebd2112------2)
 - [Interview Guideline for Senior/Lead IOS Developers](https://medium.com/seyhunakyurek/interview-guideline-for-senior-lead-ios-developers-997484ed53da?source=rss-192c1ebd2112------2)
 - [My IOS/Swift Specific Posts Roundup](https://medium.com/seyhunakyurek/my-ios-swift-specific-posts-roundup-14c78a22c719?source=rss-192c1ebd2112------2)
-- [Seungyoun Yi. I was glad you liked. Just updated the article with the YNDropDownView. Thanks](https://medium.com/@seyhunak/seungyoun-yi-i-was-glad-you-liked-just-updated-the-article-with-the-yndropdownview-thanks-22ddc386a622?source=rss-192c1ebd2112------2)
 - [10 New IOS libraries which you definitely have to try at 2017](https://medium.com/seyhunakyurek/10-new-ios-libraries-which-you-definitely-have-to-try-at-2017-dc1a9cf4441e?source=rss-192c1ebd2112------2)
 <!-- BLOG-POST-LIST:END -->
 
