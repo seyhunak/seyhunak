@@ -45,13 +45,13 @@
 ![Waka Readme](https://github.com/seyhunak/seyhunak/workflows/Waka%20Readme/badge.svg)
 <!--START_SECTION:waka-->
 ```text
-Week: 21 July, 2020 - 28 July, 2020
+Week: 22 July, 2020 - 29 July, 2020
 
-Markdown   25 mins         ███████████████░░░░░░░░░░   61.42 % 
-YAML       6 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
-Swift      4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
-XML        3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
-Other      2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 %
+Markdown   25 mins         ███████████████░░░░░░░░░░   60.23 % 
+YAML       6 mins          ███░░░░░░░░░░░░░░░░░░░░░░   15.24 % 
+Swift      4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
+XML        3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
+Other      2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 %
 ```
 <!--END_SECTION:waka-->
 
