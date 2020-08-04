@@ -5,7 +5,7 @@
 - 💬 Ask me about IOS, Swift
 - 📫 How to reach me: seyhunak [at] gmail com
 
-### I'm [Seyhun Akyürek!](https://seyhunak.codes) 👋. ![](https://pronoun.cyou/x/y?subject=He&object=Him&height=20)
+### I'm [Seyhun Akyürek!](https://seyhunakyurek.com) 👋. ![](https://pronoun.cyou/x/y?subject=He&object=Him&height=20)
 
 <br/>
 <a href="https://twitter.com/seyhunak">
