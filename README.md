@@ -75,8 +75,10 @@ JSX          0 secs          ░░░░░░░░░░░░░░░░░
 ![Latest stack overflow activity](https://github.com/seyhunak/seyhunak/workflows/Latest%20stack%20overflow%20activity/badge.svg)
 <!-- STACKOVERFLOW:START -->
 - [Comment by Seyhun Akyürek on Switch-Case Refactor in Swift With Clean Way](https://stackoverflow.com/questions/58282030/switch-case-refactor-in-swift-with-clean-way/58282916#58282916)
+- [Comment by Seyhun Akyürek on Switch-Case Refactor in Swift With Clean Way](https://stackoverflow.com/questions/58282030/switch-case-refactor-in-swift-with-clean-way/58282916#58282916)
 - [Switch-Case Refactor in Swift With Clean Way](https://stackoverflow.com/questions/58282030/switch-case-refactor-in-swift-with-clean-way)
 - [Comment by Seyhun Akyürek on Generic UITableViewCell with Different Kind Of JSON data](https://stackoverflow.com/questions/58240249/generic-uitableviewcell-with-different-kind-of-json-data)
+- [Comment by Seyhun Akyürek on Generic UITableViewCell with Different Kind Of JSON data](https://stackoverflow.com/questions/58240249/generic-uitableviewcell-with-different-kind-of-json-data/58241986#58241986)
 <!-- STACKOVERFLOW:END -->
 
 ![Seyhun's github stats](https://github-readme-stats.vercel.app/api?username=seyhunak&show_icons=true&theme=simple)
