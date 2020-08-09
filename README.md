@@ -57,7 +57,6 @@ Swift   0 secs          █░░░░░░░░░░░░░░░░░�
 <br>
 ![Latest blog post workflow](https://github.com/seyhunak/seyhunak/workflows/Latest%20blog%20post%20workflow/badge.svg)
 <!-- BLOG-POST-LIST:START -->
-- [Do's and Don'ts in Sofware Development](https://dev.to/seyhunak/do-s-and-don-ts-in-sofware-development-1bbf)
 - [My Favourite Blog Posts About Swift and IOS Development](https://medium.com/@seyhunak/my-favourite-blog-posts-about-swift-and-ios-development-b3ae7c22e46e?source=rss-192c1ebd2112------2)
 - [Online Programming & Computer Science Courses](https://medium.com/seyhunakyurek/online-programming-computer-science-courses-3dfa60015f22?source=rss-192c1ebd2112------2)
 - [My Top 10 Favourite Toolkit for the iTerm](https://medium.com/seyhunakyurek/my-top-10-favourite-toolkit-for-the-iterm-580e2d15bed4?source=rss-192c1ebd2112------2)
