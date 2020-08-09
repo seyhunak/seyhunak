@@ -72,11 +72,11 @@ Swift   0 secs          █░░░░░░░░░░░░░░░░░�
 <br>
 ![Latest stack overflow activity](https://github.com/seyhunak/seyhunak/workflows/Latest%20stack%20overflow%20activity/badge.svg)
 <!-- STACKOVERFLOW:START -->
-- [Comment by Seyhun Akyürek on Switch-Case Refactor in Swift With Clean Way](https://stackoverflow.com/questions/58282030/switch-case-refactor-in-swift-with-clean-way/58282916#58282916)
-- [Comment by Seyhun Akyürek on Switch-Case Refactor in Swift With Clean Way](https://stackoverflow.com/questions/58282030/switch-case-refactor-in-swift-with-clean-way/58282916#58282916)
 - [Switch-Case Refactor in Swift With Clean Way](https://stackoverflow.com/questions/58282030/switch-case-refactor-in-swift-with-clean-way)
-- [Comment by Seyhun Akyürek on Generic UITableViewCell with Different Kind Of JSON data](https://stackoverflow.com/questions/58240249/generic-uitableviewcell-with-different-kind-of-json-data)
-- [Comment by Seyhun Akyürek on Generic UITableViewCell with Different Kind Of JSON data](https://stackoverflow.com/questions/58240249/generic-uitableviewcell-with-different-kind-of-json-data/58241986#58241986)
+- [Generic UITableViewCell with Different Kind Of JSON data](https://stackoverflow.com/questions/58240249/generic-uitableviewcell-with-different-kind-of-json-data)
+- [String replace to method [closed]](https://stackoverflow.com/questions/35287744/string-replace-to-method)
+- [Answer by Seyhun Akyürek for iOS UITextView : URL Detection for links with country domain and without "http" prefix](https://stackoverflow.com/questions/34989861/ios-uitextview-url-detection-for-links-with-country-domain-and-without-http/34993871#34993871)
+- [Xcode 7.0.1 couldn’t be opened because you don’t have permission to view it](https://stackoverflow.com/questions/33046795/xcode-7-0-1-couldn-t-be-opened-because-you-don-t-have-permission-to-view-it)
 <!-- STACKOVERFLOW:END -->
 
 ![Seyhun's github stats](https://github-readme-stats.vercel.app/api?username=seyhunak&show_icons=true&theme=simple)
