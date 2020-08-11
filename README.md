@@ -45,11 +45,9 @@
 ![Waka Readme](https://github.com/seyhunak/seyhunak/workflows/Waka%20Readme/badge.svg)
 <!--START_SECTION:waka-->
 ```text
-Week: 02 August, 2020 - 09 August, 2020
+Week: 03 August, 2020 - 10 August, 2020
 
-Other   5 mins          █████████████████████░░░░   86.85 % 
-XML     0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
-Swift   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   06.33 %
+Other   2 mins          █████████████████████████   100.00 %
 ```
 <!--END_SECTION:waka-->
 
