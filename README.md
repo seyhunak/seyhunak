@@ -32,7 +32,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=seyhunak.seyhunak)
 
-### Currently working as Mobile Team Lead from Turkey / Istanbul and Azerbaijan / Baku.
+### Currently working as Mobile Chapter Lead from Azerbaijan / Baku and Turkey / Istanbul
 
 **IOS/Android. Coding with Swift, Objective-C, Kotlin**
 **Software Architecture, System Design, Moduler Design, Scalable Architecture**
