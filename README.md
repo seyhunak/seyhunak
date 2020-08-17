@@ -31,6 +31,8 @@
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=seyhunak.seyhunak)
+![Profile views](https://gpvc.arturio.dev/seyhunak)
+
 
 ### Currently working as Mobile Chapter Lead from Azerbaijan / Baku and Turkey / Istanbul
 
