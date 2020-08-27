@@ -3,21 +3,23 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seyhunak" alt="seyhunak" /> </p>
 
-- 🔭 I’m currently working on International Bank of Azerbaijan [IBAMobile](https://apps.apple.com/la/app/iba-mobile/id1251456175)
+- 🔭 I’m currently working on International Bank of Azerbaijan [in IBAMobile](https://apps.apple.com/la/app/iba-mobile/id1251456175)
 
 - 🌱 I’m currently learning **Swift, Objective-C, Ruby, Rails, Go**
 
 - 👯 I’m looking to collaborate on [Open Source Projects](http://github.com/seyhunak)
 
+- 🤝 I’m looking for help with [twitter-bootstrap-rails](https://github.com/seyhunak/twitter-bootstrap-rails)
+
 - 👨‍💻 All of my projects are available at [seyhunakyurek.com](seyhunakyurek.com)
 
-- 📝 I regulary write articles on [seyhunakyurek.com](seyhunakyurek.com)
+- 📝 I regulary write articles on [dev.to/seyhunak](dev.to/seyhunak)
 
 - 💬 Ask me about **Swift, Objective-C**
 
 - 📫 How to reach me **seyhunak [at] gmail com**
 
-- ⚡ Fun fact **Love Coffee**
+- ⚡ Fun fact **Love Coffee, Music Composer, Gamer, Coding**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
