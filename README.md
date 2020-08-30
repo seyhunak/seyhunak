@@ -23,6 +23,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Software Development Managers And Improving Communication With The Teams](https://dev.to/seyhunak/software-development-managers-and-improving-communication-with-the-teams-36mg)
 - [Leadership In Software Development And Leading Developers](https://dev.to/seyhunak/leadership-in-software-development-1am4)
 - [Software Engineering Management and Why Context Matters](https://dev.to/seyhunak/software-engineering-management-and-why-context-matters-38jl)
 - [Do's and Don'ts in Sofware Development](https://dev.to/seyhunak/do-s-and-don-ts-in-sofware-development-1bbf)
@@ -32,7 +33,6 @@
 - [Top Programming Interview Questions and Answers. Part — 1](https://medium.com/seyhunakyurek/top-programming-interview-questions-and-answers-part-1-5eba9199f0c?source=rss-192c1ebd2112------2)
 - [Terminal Configurations for iTerm2 with ZSH, Nerd Fonts and Powerlevel9K!](https://medium.com/seyhunakyurek/terminal-configurations-for-iterm2-with-zsh-nerd-fonts-and-powerlevel9k-8ed4193ac819?source=rss-192c1ebd2112------2)
 - [Interview Guideline for Senior/Lead IOS Developers](https://medium.com/seyhunakyurek/interview-guideline-for-senior-lead-ios-developers-997484ed53da?source=rss-192c1ebd2112------2)
-- [My IOS/Swift Specific Posts Roundup](https://medium.com/seyhunakyurek/my-ios-swift-specific-posts-roundup-14c78a22c719?source=rss-192c1ebd2112------2)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg" alt="go" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="objectivec" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/ruby/ruby-original-wordmark.svg" alt="ruby" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/swift/swift-original-wordmark.svg" alt="swift" width="40" height="40"/></p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seyhunak&layout=compact&hide=html" alt="seyhunak" /></p>
