@@ -21,6 +21,9 @@
 
 - ⚡ Fun fact **Love Coffee, Music Composer, Gamer, Coding**
 
+### Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=seyhunak)](https://github.com/seyhunak/github-profile-trophy)
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Software Development Managers And Improving Communication With The Teams](https://dev.to/seyhunak/software-development-managers-and-improving-communication-with-the-teams-36mg)
