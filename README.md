@@ -11,9 +11,9 @@
 
 - 🤝 I’m looking for help with [twitter-bootstrap-rails](https://github.com/seyhunak/twitter-bootstrap-rails)
 
-- 👨‍💻 All of my projects are available at [seyhunakyurek.com](seyhunakyurek.com)
+- 👨‍💻 All of my projects are available at [seyhunakyurek.com](https://seyhunakyurek.com)
 
-- 📝 I regulary write articles on [dev.to/seyhunak](dev.to/seyhunak)
+- 📝 I regulary write articles on [dev.to/seyhunak](https://dev.to/seyhunak)
 
 - 💬 Ask me about **Swift, Objective-C**
 
