@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on International Bank of Azerbaijan [in IBAMobile](https://apps.apple.com/la/app/iba-mobile/id1251456175)
 
-- 🌱 I’m currently learning **Swift, Objective-C, Ruby, Rails, Go**
+- 🌱 I’m currently coding with Swift, Kotlin, Java
 
 - 👯 I’m looking to collaborate on [Open Source Projects](http://github.com/seyhunak)
 
@@ -15,7 +15,7 @@
 
 - 📝 I regulary write articles on [dev.to/seyhunak](https://dev.to/seyhunak)
 
-- 💬 Ask me about **Swift, Objective-C**
+- 💬 Ask me about in past I wrote **Objective-C, Ruby on Rails**
 
 - 📫 How to reach me **seyhunak [at] gmail com**
 
