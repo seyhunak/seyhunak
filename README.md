@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Seyhun Akyürek</h1>
-<h3 align="center">Currently working as Mobile Chapter Lead. Enterprise Design Thinking Co-Creator/Practitioner, Blogger. Azerbaijan - Baku and Turkey - Istanbul</h3>
+<h3 align="center">Application Team Leader Mobile Channels in Commercial Bank Of Dubai. 
+Enterprise Design Thinking Co-Creator/Practitioner, Blogger</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seyhunak" alt="seyhunak" /> </p>
 
-- 🔭 I’m currently working on International Bank of Azerbaijan [in IBAMobile](https://apps.apple.com/la/app/iba-mobile/id1251456175)
+- 🔭 I’m currently working on Commercial Bank Of Dubai [in CBD](https://cbd.ae)
 
-- 🌱 I’m currently coding with Swift, Kotlin, Java
+- 🌱 I’m currently coding with Swift for IOS. Kotlin, Java for Android platform 
 
 - 👯 I’m looking to collaborate on [Open Source Projects](http://github.com/seyhunak)
 
@@ -15,7 +16,7 @@
 
 - 📝 I regulary write articles on [dev.to/seyhunak](https://dev.to/seyhunak)
 
-- 💬 Ask me about in past I wrote **Objective-C, Ruby on Rails**
+- 💬 Ask me about in past I wrote **Management, Leadership, Mobile platforms, formerly Ruby on Rails**
 
 - 📫 How to reach me **seyhunak [at] gmail com**
 
