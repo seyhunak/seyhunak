@@ -4,23 +4,16 @@ Enterprise Design Thinking Co-Creator/Practitioner, Blogger</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seyhunak" alt="seyhunak" /> </p>
 
-- 🔭 I’m currently working on Commercial Bank Of Dubai [in CBD](https://cbd.ae)
-
-- 🌱 I’m currently coding with Swift for IOS. Kotlin, Java for Android platform 
-
+- 🔭 I’m currently working on Commercial Bank Of Dubai [in CBD](https://cbd.ae/)
+- 🌱 I’m currently coding with Swift for IOS. Kotlin, Java for Android platform
+- 👨‍💻 I’m talking and sharing my experience with leadership, management, and teamwork.
 - 👯 I’m looking to collaborate on [Open Source Projects](http://github.com/seyhunak)
-
 - 🤝 I’m looking for help with [twitter-bootstrap-rails](https://github.com/seyhunak/twitter-bootstrap-rails)
-
-- 👨‍💻 All of my projects are available at [seyhunakyurek.com](https://seyhunakyurek.com)
-
-- 📝 I regulary write articles on [dev.to/seyhunak](https://dev.to/seyhunak)
-
+- 👨‍💻 All of my projects are available at [seyhunakyurek.com](https://seyhunakyurek.com/)
+- 📝 I regularly write articles on [dev.to/seyhunak](https://dev.to/seyhunak)
+- 📝 I regularly write articles on [linkedin.com/seyhunak](https://linkedin.com/seyhunak)
 - 💬 Ask me about in past I wrote **Management, Leadership, Mobile platforms, formerly Ruby on Rails**
-
-- 📫 How to reach me **seyhunak [at] gmail com**
-
-- ⚡ Fun fact **Love Coffee, Music Composer, Gamer, Coding**
+- ⚡ I’m in **Love Coffee, Music Composer, Gamer, Coding**
 
 ### Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=seyhunak)](https://github.com/seyhunak/github-profile-trophy)
