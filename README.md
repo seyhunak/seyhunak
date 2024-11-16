@@ -1,11 +1,9 @@
-<h1 align="center">Hi 👋, I'm Seyhun Akyürek</h1>
-<h3 align="center">Application Team Leader Mobile Channels in Commercial Bank Of Dubai. 
-Enterprise Design Thinking Co-Creator/Practitioner, Blogger</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7F7F7&width=435&lines=Hi+%F0%9F%91%8B+I+am+Seyhun+Akyurek;Feel+free+to+explore+my+profile)](https://git.io/typing-svg)
 
 ![profile_counter](https://komarev.com/ghpvc/?username=seyhunak&color=lightgrey)
 [![Twitter: seyhunak](https://img.shields.io/twitter/follow/seyhunak?style=social)](https://twitter.com/seyhunak)
 [![Linkedin: seyhunak](https://img.shields.io/badge/-seyhunak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seyhunak/)](https://www.linkedin.com/in/seyhunak/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
+[![GitHub seyhunak](https://img.shields.io/github/followers/seyhunak?label=follow&style=social)](https://github.com/seyhunak)
 
 
 - 🔭 I’m currently working on Commercial Bank Of Dubai in [CBD](https://cbd.ae/)
