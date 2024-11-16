@@ -3,6 +3,10 @@
 Enterprise Design Thinking Co-Creator/Practitioner, Blogger</h3>
 
 ![profile_counter](https://komarev.com/ghpvc/?username=seyhunak&color=lightgrey)
+[![Twitter: seyhunak](https://img.shields.io/twitter/follow/seyhunak?style=social)](https://twitter.com/seyhunak)
+[![Linkedin: seyhunak](https://img.shields.io/badge/-seyhunak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seyhunak/)](https://www.linkedin.com/in/seyhunak/)
+[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
+
 
 - 🔭 I’m currently working on Commercial Bank Of Dubai in [CBD](https://cbd.ae/)
 - 🌱 I’m currently dedicated on management/leadership and doing coding with Swift for IOS and Python
