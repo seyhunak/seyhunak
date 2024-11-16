@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7F7F7&width=435&lines=Hi+%F0%9F%91%8B+I+am+Seyhun+Akyurek;Feel+Free+To+Explore)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7F7F7&width=435&lines=Hi+%F0%9F%91%8B+I+am+Seyhun+Akyurek)](https://git.io/typing-svg)
 
 ![profile_counter](https://komarev.com/ghpvc/?username=seyhunak&color=lightgrey)
 [![Twitter: seyhunak](https://img.shields.io/twitter/follow/seyhunak?style=social)](https://twitter.com/seyhunak)
