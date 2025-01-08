@@ -12,7 +12,7 @@
 - 👨‍💻 I’m talking and sharing my experience with leadership, management, and teamwork.
 - 👯 I’m looking to collaborate on [Open Source Projects](http://github.com/seyhunak)
 - 🤝 I’m looking for help with [twitter-bootstrap-rails](https://github.com/seyhunak/twitter-bootstrap-rails)
-- 👨‍💻 All of my projects are available at [seyhunakyurek.com](https://seyhunakyurek.com/)
+- 👨‍💻 All of my projects are available at [seyhunakyurek.com](https://www.seyhunakyurek.com/)
 - 📝 I am regularly write articles on [dev.to/seyhunak](https://dev.to/seyhunak)
 - 📝 I am hosting professional resume on [linkedin.com/seyhunak](https://linkedin.com/seyhunak)
 - 💬 Ask me about in past I wrote **Management, Leadership, Mobile platforms on IOS, formerly Ruby on Rails and Python language**
