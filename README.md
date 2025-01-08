@@ -6,7 +6,8 @@
 [![GitHub seyhunak](https://img.shields.io/github/followers/seyhunak?label=follow&style=social)](https://github.com/seyhunak)
 
 
-- 🔭 I’m currently working on Commercial Bank Of Dubai in [CBD](https://cbd.ae/)
+- 🔭 I’m currently dedicated on Crafted in [CBD](https://we-crafted.com/)
+- 👨‍💻 I’m former employee of Commercial Bank Of Dubai in [CBD](https://cbd.ae/)
 - 🌱 I’m currently dedicated on management/leadership and doing coding with Swift for IOS and Python
 - 👨‍💻 I’m talking and sharing my experience with leadership, management, and teamwork.
 - 👯 I’m looking to collaborate on [Open Source Projects](http://github.com/seyhunak)
