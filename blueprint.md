@@ -1,5 +1,3 @@
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#-lets-talk-ai)
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7F7F7&width=435&lines=Hi+%F0%9F%91%8B+I+am+Seyhun+Akyurek)](https://git.io/typing-svg)
 
 ![profile_counter](https://komarev.com/ghpvc/?username=seyhunak&color=lightgrey)
@@ -20,9 +18,7 @@
 - 💬 Ask me about in past I wrote **Management, Leadership, Mobile platforms on IOS, formerly Ruby on Rails and Python language**
 - ⚡ I’m in **Love Coffee, Music Composer, Gamer, Coding**
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#-lets-talk-ai)
-
-#### My Skillset 
+#### Arsenal 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![IOS](https://img.shields.io/badge/IOS-%23EE4C2C.svg?style=for-the-badge&logo=IOS&logoColor=white) 
@@ -39,8 +35,6 @@
 ### Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=seyhunak)](https://github.com/seyhunak/github-profile-trophy)
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#-lets-talk-ai)
-
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Software Development Managers And Improving Communication With The Teams](https://dev.to/seyhunak/software-development-managers-and-improving-communication-with-the-teams-36mg)
@@ -55,16 +49,18 @@
 - [Interview Guideline for Senior/Lead IOS Developers](https://medium.com/seyhunakyurek/interview-guideline-for-senior-lead-ios-developers-997484ed53da?source=rss-192c1ebd2112------2)
 <!-- BLOG-POST-LIST:END -->
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#-lets-talk-ai)
-
-### Social Links
-
 <p align="center">
 <a href="https://codepen.io/seyhunak" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="seyhunak" height="30" width="30" /></a>
 <a href="https://dev.to/seyhunak" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="seyhunak" height="30" width="30" /></a>
 <a href="https://twitter.com/seyhunak" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="seyhunak" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/seyhunak" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="seyhunak" height="30" width="30" /></a>
+<a href="https://stackoverflow.com/users/seyhunak" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="seyhunak" height="30" width="30" /></a>
 <a href="https://codesandbox.com/seyhunak" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="seyhunak" height="30" width="30" /></a>
 <a href="https://kaggle.com/seyhunak" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="seyhunak" height="30" width="30" /></a>
+<a href="https://fb.com/seyhunak" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="seyhunak" height="30" width="30" /></a>
+<a href="https://instagram.com/seyhunak" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="seyhunak" height="30" width="30" /></a>
+<a href="https://dribbble.com/seyhunak" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="seyhunak" height="30" width="30" /></a>
+<a href="https://www.behance.net/seyhunak" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="seyhunak" height="30" width="30" /></a>
 <a href="https://medium.com/@seyhunak" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@seyhunak" height="30" width="30" /></a>
+<a href="https://www.youtube.com/c/seyhunak" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="seyhunak" height="30" width="30" /></a>
 </p>
