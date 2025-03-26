@@ -3,10 +3,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7F7F7&width=435&lines=Hi+%F0%9F%91%8B+I+am+Seyhun+Akyurek)](https://git.io/typing-svg)
 
 ![profile_counter](https://komarev.com/ghpvc/?username=seyhunak&color=lightgrey)
-[![Twitter: seyhunak](https://img.shields.io/twitter/follow/seyhunak?style=social)](https://twitter.com/seyhunak)
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/seyhunak)
 [![Linkedin: seyhunak](https://img.shields.io/badge/-seyhunak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seyhunak/)](https://www.linkedin.com/in/seyhunak/)
-[![GitHub seyhunak](https://img.shields.io/github/followers/seyhunak?label=follow&style=social)](https://github.com/seyhunak)
-
+![GitHub followers](https://img.shields.io/github/followers/seyhunak)
 
 - 🔭 I’m currently dedicated in Crafted at [WeCrafted](https://we-crafted.com/)
 - 👨‍💻 I’m former employee of Commercial Bank Of Dubai in [CBD](https://cbd.ae/)
@@ -57,7 +56,7 @@
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#-lets-talk-ai)
 
-### Social Links
+### All over the web
 
 <p align="center">
 <a href="https://codepen.io/seyhunak" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="seyhunak" height="30" width="30" /></a>
