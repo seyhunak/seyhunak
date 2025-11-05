@@ -2,9 +2,13 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7F7F7&width=435&lines=Hi+%F0%9F%91%8B+I+am+Seyhun+Akyurek)](https://git.io/typing-svg)
 
-# About Me
+# Seyhun Akyürek — Senior Engineering Leader. 20+ Yrs Building Scalable Platforms In Fintech and Banking. Lead Globally Distributed Teams 12 of 2 Regions UAE/Azerbaijan | AI | DevOps, CI/CD, XP, and TDD | Founder of Crafted AI Framework
 
-- 🔭 I’m currently dedicated in Crafted at [WeCrafted](https://we-crafted.com/)
+I build and lead high-impact AI and product teams, design practical AI systems for finance and enterprise, and write about leadership, engineering culture, and human-centered AI. I combine systems thinking, product taste, and operational rigor to ship things that actually change how teams work.
+
+### 🔭 Quick snapshot
+
+- 🔭 I’m currently dedicated in Crafted at [Crafted](https://we-crafted.com/)
 - 👨‍💻 I’m former employee of Commercial Bank Of Dubai in [CBD](https://cbd.ae/)
 - 🌱 I’m currently dedicated on management/leadership and doing coding with Swift for IOS and Python
 - 👨‍💻 I’m talking and sharing my experience with leadership, management, and teamwork.
@@ -15,6 +19,17 @@
 - 📝 I am hosting professional resume on [linkedin.com/seyhunak](https://linkedin.com/seyhunak)
 - 💬 Ask me about in past I wrote **Management, Leadership, Mobile platforms on IOS, formerly Ruby on Rails and Python language**
 - ⚡ I’m in **Love Coffee, Music Composer, Gamer, Coding**
+
+## 👨‍💻 What I do (short)
+- Lead AI product strategy and runway from prototype → production.  
+- Design and scale RAG layers, vector stores, and AI agents for fintech and enterprise.  
+- Build engineering orgs that combine strong execution with thoughtful craft.  
+- Coach managers on communication, feedback loops, and measurable culture change.  
+- Write and speak on AI ethics, collaboration, and future of work.
+
+## 🔭 Projects & Open Source
+- Twitter-Bootstrap-Rails — maintenance & community contributions: https://github.com/seyhunak/twitter-bootstrap-rails  
+- All repos: https://github.com/seyhunak
 
 ### Quick Links
 
@@ -49,7 +64,6 @@
 [![Coderbyte](https://img.shields.io/badge/Coderbyte-Profile-blue?logo=codecademy&logoColor=white)](https://coderbyte.com/profile/seyhunak)
 [![HackerRank](https://img.shields.io/badge/HackerRank-Solve-brightgreen?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/seyhunak)
 
-
 ### My Books
 
 [![Invisible Colleagues](https://img.shields.io/badge/Invisible_Colleagues-Book-blue)](https://www.amazon.com/Invisible-Colleagues-Rethinking-Collaboration-Age-ebook/dp/B0FY2RX8H1)
@@ -64,10 +78,12 @@
 
 ### My Coding 
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
+## 🧰 Toolkit & Technologies
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Swift](https://img.shields.io/badge/swift-%23FA7343.svg?style=for-the-badge&logo=swift&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
 ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
-![IOS](https://img.shields.io/badge/IOS-%23EE4C2C.svg?style=for-the-badge&logo=IOS&logoColor=white) 
+![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23EE4C2C.svg?style=for-the-badge&logo=Streamlit&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VsCode](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
