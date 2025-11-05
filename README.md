@@ -28,6 +28,7 @@
 - [Resume (Download/View)](https://www.seyhunakyurek.com#Resume)
 
 ### Connect & Follow
+![profile_counter](https://komarev.com/ghpvc/?username=seyhunak&color=lightgrey)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-informational?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seyhunak)
 [![Linkedin: seyhunak](https://img.shields.io/badge/-seyhunak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seyhunak/)](https://www.linkedin.com/in/seyhunak/)
@@ -39,7 +40,15 @@
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube&logoColor=white)](https://youtube.com/@seyhunak)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-purple?logo=instagram&logoColor=white)](https://instagram.com/seyhunak)
 [![Email](https://img.shields.io/badge/Email-Contact-success?logo=gmail&logoColor=white)](mailto:info@seyhunakyurek.com)
-![profile_counter](https://komarev.com/ghpvc/?username=seyhunak&color=lightgrey)
+[![Peerlist](https://img.shields.io/badge/Peerlist-Follow-lightgrey?logo=peerlist&logoColor=white)](https://peerlist.io/seyhunak)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Solve-yellow?logo=leetcode&logoColor=black)](https://leetcode.com/seyhunak)
+[![ADPList Mentor](https://img.shields.io/badge/ADPList-Mentor-blue?logo=adplist&logoColor=white)](https://adplist.org/mentors/seyhun-ak)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Profile-blue?logo=codeforces&logoColor=white)](https://codeforces.com/profile/seyhunak)
+[![Product Hunt](https://img.shields.io/badge/Product%20Hunt-Follow-orange?logo=producthunt&logoColor=white)](https://www.producthunt.com/@seyhunakyurek)
+[![Postman](https://img.shields.io/badge/Postman-Collections-orange?logo=postman&logoColor=white)](https://www.postman.com/seyhunak)
+[![Coderbyte](https://img.shields.io/badge/Coderbyte-Profile-blue?logo=codecademy&logoColor=white)](https://coderbyte.com/profile/seyhunak)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Solve-brightgreen?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/seyhunak)
+
 
 ### My Books
 
