@@ -2,10 +2,19 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7F7F7&width=435&lines=Hi+%F0%9F%91%8B+I+am+Seyhun+Akyurek)](https://git.io/typing-svg)
 
-![profile_counter](https://komarev.com/ghpvc/?username=seyhunak&color=lightgrey)
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/seyhunak)
+## Connect & Follow
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-informational?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seyhunak)
 [![Linkedin: seyhunak](https://img.shields.io/badge/-seyhunak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seyhunak/)](https://www.linkedin.com/in/seyhunak/)
+[![Twitter/X](https://img.shields.io/badge/X-Follow-black?logo=x&logoColor=white)](https://x.com/seyhunak)
+[![Hashnode](https://img.shields.io/badge/Hashnode-Read-blue?logo=hashnode&logoColor=white)](https://seyhunak.hashnode.dev)
+[![Subscribe on Substack](https://img.shields.io/badge/Substack-Subscribe-orange)](https://seyhunak.substack.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgray?logo=github&logoColor=black)](https://github.com/seyhunak)
 ![GitHub followers](https://img.shields.io/github/followers/seyhunak)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube&logoColor=white)](https://youtube.com/@seyhunak)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-purple?logo=instagram&logoColor=white)](https://instagram.com/seyhunak)
+[![Email](https://img.shields.io/badge/Email-Contact-success?logo=gmail&logoColor=white)](mailto:info@seyhunakyurek.com)
+![profile_counter](https://komarev.com/ghpvc/?username=seyhunak&color=lightgrey)
 
 - 🔭 I’m currently dedicated in Crafted at [WeCrafted](https://we-crafted.com/)
 - 👨‍💻 I’m former employee of Commercial Bank Of Dubai in [CBD](https://cbd.ae/)
