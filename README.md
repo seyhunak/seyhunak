@@ -46,14 +46,11 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 
-
 ### Stats
 
 ![githubstats](https://github-readme-stats.vercel.app/api?username=seyhunak&hide_rank=true&hide=commits&count_private=true&show_icons=true&hide_border=true&hide_title=false)
 ![githublangs](https://github-readme-stats.vercel.app/api/top-langs/?username=seyhunak&layout=compact&hide_border=true)
 
-### Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=seyhunak)](https://github.com/seyhunak/github-profile-trophy)
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#-lets-talk-ai)
 
