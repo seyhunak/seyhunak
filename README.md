@@ -28,7 +28,7 @@ I build and lead high-impact AI and product teams, design practical AI systems f
 - Write and speak on AI ethics, collaboration, and future of work.
 
 ## 🔭 Projects & Open Source
-- Twitter-Bootstrap-Rails — maintenance & community contributions: https://github.com/seyhunak/twitter-bootstrap-rails  
+- twitter-bootstrap-rails — maintenance & community contributions: https://github.com/seyhunak/twitter-bootstrap-rails  
 - All repos: https://github.com/seyhunak
 
 ### Quick Links
