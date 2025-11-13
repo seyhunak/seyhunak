@@ -31,6 +31,10 @@ I build and lead high-impact AI and product teams, design practical AI systems f
 - twitter-bootstrap-rails — maintenance & community contributions: https://github.com/seyhunak/twitter-bootstrap-rails  
 - All repos: https://github.com/seyhunak
 
+### Backers and Sponsors
+[![OpenCollective](https://opencollective.com/twitter-bootstrap-rails/backers/badge.svg)](#backers) 
+[![OpenCollective](https://opencollective.com/twitter-bootstrap-rails/sponsors/badge.svg)](#sponsors)
+
 ### Quick Links
 
 - [Home – Seyhun Akyürek](https://www.seyhunakyurek.com)  
