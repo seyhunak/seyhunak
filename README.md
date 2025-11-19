@@ -61,7 +61,7 @@ I build and lead high-impact AI and product teams, design practical AI systems f
 [![Email](https://img.shields.io/badge/Email-Contact-success?logo=gmail&logoColor=white)](mailto:info@seyhunakyurek.com)
 [![Peerlist](https://img.shields.io/badge/Peerlist-Follow-lightgrey?logo=peerlist&logoColor=white)](https://peerlist.io/seyhunak)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Solve-yellow?logo=leetcode&logoColor=black)](https://leetcode.com/seyhunak)
-[![ADPList Mentor](https://img.shields.io/badge/ADPList-Mentor-blue?logo=adplist&logoColor=white)](https://adplist.org/mentors/seyhun-ak)
+[![ADPList Mentor](https://img.shields.io/badge/ADPList-Mentor-blue?logo=adplist&logoColor=white)](https://adplist.org/members/seyhun-akyurek)
 [![Codeforces](https://img.shields.io/badge/Codeforces-Profile-blue?logo=codeforces&logoColor=white)](https://codeforces.com/profile/seyhunak)
 [![Product Hunt](https://img.shields.io/badge/Product%20Hunt-Follow-orange?logo=producthunt&logoColor=white)](https://www.producthunt.com/@seyhunakyurek)
 [![Postman](https://img.shields.io/badge/Postman-Collections-orange?logo=postman&logoColor=white)](https://www.postman.com/seyhunak)
