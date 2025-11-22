@@ -106,6 +106,12 @@ I build and lead high-impact AI and product teams, design practical AI systems f
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#-lets-talk-ai)
 
+
+### ✍️ Latest Articles - Substack
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ### Few of my blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Software Development Managers And Improving Communication With The Teams](https://dev.to/seyhunak/software-development-managers-and-improving-communication-with-the-teams-36mg)
