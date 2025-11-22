@@ -125,6 +125,12 @@ I build and lead high-impact AI and product teams, design practical AI systems f
 ### ✍️ Latest Articles - Substack
 
 <!-- BLOG-POST-LIST:START -->
+- [Designing with Mastercard Agent Pay: How Banks Can Win the Agentic Commerce Era](https://medium.com/@seyhunak/designing-with-mastercard-agent-pay-how-banks-can-win-the-agentic-commerce-era-54d3cc60d091?source=rss-192c1ebd2112------2)
+- [Wealth Management Platform &lpar;HNWI&rpar; for High-Net-Worth Individuals](https://medium.com/@seyhunak/wealth-management-platform-hnwi-for-high-net-worth-individuals-33f26168b242?source=rss-192c1ebd2112------2)
+- [Building a Production-Ready Buy Now Pay Later &lpar;BNPL&rpar; Platform for the UAE Market](https://medium.com/@seyhunak/building-a-production-ready-buy-now-pay-later-bnpl-platform-for-the-uae-market-772d36bba845?source=rss-192c1ebd2112------2)
+- [Designing Sharia-compliant lending system for UAE Fintech/Banking](https://medium.com/@seyhunak/designing-sharia-compliant-lending-system-for-uae-fintech-banking-2ecf072378dc?source=rss-192c1ebd2112------2)
+- [Designing Plug-and-Play AI Agent for Banking](https://medium.com/@seyhunak/designing-plug-and-play-ai-agent-for-banking-231cc627f4d2?source=rss-192c1ebd2112------2)
+- [Designing UAE Government Payment Platform &lpar;E-Dirham Successor&rpar;](https://medium.com/@seyhunak/designing-uae-government-payment-platform-e-dirham-successor-b3e8578b8e66?source=rss-192c1ebd2112------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Few of my blog posts
