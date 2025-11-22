@@ -68,7 +68,7 @@ I build and lead high-impact AI and product teams, design practical AI systems f
 [![Coderbyte](https://img.shields.io/badge/Coderbyte-Profile-blue?logo=codecademy&logoColor=white)](https://coderbyte.com/profile/seyhunak)
 [![HackerRank](https://img.shields.io/badge/HackerRank-Solve-brightgreen?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/seyhunak)
 
-### My Books
+### My Amazon Kindle Books
 
 [![Invisible Colleagues](https://img.shields.io/badge/Invisible_Colleagues-Book-blue)](https://www.amazon.com/Invisible-Colleagues-Rethinking-Collaboration-Age-ebook/dp/B0FY2RX8H1)
 [![AI at Work](https://img.shields.io/badge/AI_at_Work-Book-blue)](https://www.amazon.com/dp/B0FX3GH5P7)
@@ -79,6 +79,26 @@ I build and lead high-impact AI and product teams, design practical AI systems f
 [![Mastering Financial APIs](https://img.shields.io/badge/Mastering_Financial_APIs-Book-blue)](https://www.amazon.com/Mastering-Financial-APIs-Integrating-Solutions-ebook/dp/B0DJZ7J1LZ)
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#-lets-talk-ai)
+
+
+### My Gumroad Collection
+
+<!-- GUMROAD-PRODUCT-LIST:START -->
+* **The Manager’s Code: Crafting Cultures of Engineering Excellence** — $19.99
+* **Mastering Financial APIs: Building Advanced Trading Systems and Integrating Modern Banking Solutions** — $19.99
+* **LetsTalk AI** — $20
+* **Bag** — $2.99
+* **Focusa** — $2.99
+* **Noty** — $2.99
+* **Pomidor** — $2.99
+* **TapKeys** — $2.99
+* **Modern Fintech & Banking Transformation: Strategy, Operations, Risk, Leadership & Technology** — $19.99
+* **Let's Talk — AI Tutor English Language Learning** — $20/month
+* **250 Practical Ideas to Revolutionize Your Daily Life using Manus** — $19.99
+* **Ava and Lumo: Adventures in Wonder** — $1.99
+* **AI at Work — How to Future-Proof Your Career in the Age of Automation** — $19.90
+* **Invisible Colleagues: Rethinking Collaboration in the Age of AI** — $19.90
+<!-- GUMROAD-PRODUCT-LIST:END -->
 
 ### My Coding 
 
