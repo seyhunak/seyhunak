@@ -44,7 +44,6 @@ I build and lead high-impact AI and product teams, design practical AI systems f
 
 ### Connect & Follow
 ![profile_counter](https://komarev.com/ghpvc/?username=seyhunak&color=lightgrey)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-informational?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seyhunak)
 [![Linkedin: seyhunak](https://img.shields.io/badge/-seyhunak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seyhunak/)](https://www.linkedin.com/in/seyhunak/)
 [![Twitter/X](https://img.shields.io/badge/X-Follow-black?logo=x&logoColor=white)](https://x.com/seyhunak)
@@ -144,14 +143,4 @@ I build and lead high-impact AI and product teams, design practical AI systems f
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#-lets-talk-ai)
 
-### All over the web
 
-<p align="center">
-<a href="https://codepen.io/seyhunak" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="seyhunak" height="30" width="30" /></a>
-<a href="https://dev.to/seyhunak" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="seyhunak" height="30" width="30" /></a>
-<a href="https://twitter.com/seyhunak" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="seyhunak" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/seyhunak" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="seyhunak" height="30" width="30" /></a>
-<a href="https://codesandbox.com/seyhunak" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="seyhunak" height="30" width="30" /></a>
-<a href="https://kaggle.com/seyhunak" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="seyhunak" height="30" width="30" /></a>
-<a href="https://medium.com/@seyhunak" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@seyhunak" height="30" width="30" /></a>
-</p>
