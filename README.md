@@ -125,7 +125,12 @@ I build and lead high-impact AI and product teams, design practical AI systems f
 ## ✍️ Latest Articles from Substack - Medium
 
 <!-- ARTICLES START -->
-<!-- ARTICLES END -->
+- [Designing Architectural Jaywan Domestic Card Scheme Integration for a UAE Banks](https://medium.com/@seyhunak/designing-architectural-jaywan-domestic-card-scheme-integration-for-a-uae-banks-002181f68680?source=rss-192c1ebd2112------2)
+- [Designing a Bank/Fintech Core for UAE Instant Payments Platform (IPP) under NPSS](https://medium.com/@seyhunak/designing-a-bank-fintech-core-for-uae-instant-payments-platform-ipp-under-npss-93a7971e28cb?source=rss-192c1ebd2112------2)
+- [Agentic Compliance Co-Pilot: Autonomous Financial Compliance Design](https://medium.com/@seyhunak/agentic-compliance-co-pilot-autonomous-financial-compliance-design-f4403231f602?source=rss-192c1ebd2112------2)
+- [Building an Agentic Banking App with: Real-Time Event Streaming With Cloud Run, Pub/Sub & BigQuery](https://medium.com/@seyhunak/building-an-agentic-banking-app-with-real-time-event-streaming-with-cloud-run-pub-sub-bigquery-93a53ffddf91?source=rss-192c1ebd2112------2)
+- [Designing with Mastercard Agent Pay: How Banks Can Win the Agentic Commerce Era](https://medium.com/@seyhunak/designing-with-mastercard-agent-pay-how-banks-can-win-the-agentic-commerce-era-54d3cc60d091?source=rss-192c1ebd2112------2)
+
 
 ### Few of my blog posts
 <!-- BLOG-POST-LIST:START -->
@@ -156,4 +161,3 @@ I build and lead high-impact AI and product teams, design practical AI systems f
 - [Agentic Compliance Co-Pilot: Autonomous Financial Compliance Design](https://medium.com/@seyhunak/agentic-compliance-co-pilot-autonomous-financial-compliance-design-f4403231f602?source=rss-192c1ebd2112------2)
 - [Building an Agentic Banking App with: Real-Time Event Streaming With Cloud Run, Pub/Sub & BigQuery](https://medium.com/@seyhunak/building-an-agentic-banking-app-with-real-time-event-streaming-with-cloud-run-pub-sub-bigquery-93a53ffddf91?source=rss-192c1ebd2112------2)
 - [Designing with Mastercard Agent Pay: How Banks Can Win the Agentic Commerce Era](https://medium.com/@seyhunak/designing-with-mastercard-agent-pay-how-banks-can-win-the-agentic-commerce-era-54d3cc60d091?source=rss-192c1ebd2112------2)
-<!-- ARTICLES END -->
