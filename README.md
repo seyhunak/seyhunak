@@ -126,16 +126,8 @@ I build and lead high-impact AI and product teams, design practical AI systems f
 ## ✍️ Latest Articles from Substack - Medium
 
 <!-- ARTICLES START -->
-- [Designing Credit Risk Scoring Platform for Banking — Architectural Decision Record (ADR)](https://medium.com/@seyhunak/designing-credit-risk-scoring-platform-for-banking-architectural-decision-record-adr-14aa06b1c3b2?source=rss-192c1ebd2112------2)
-- [Designing Secure and Natural Voice Banking AI for the Banking](https://medium.com/@seyhunak/designing-secure-and-natural-voice-banking-ai-for-the-banking-5657eb80148c?source=rss-192c1ebd2112------2)
-- [Designing Autonomous Anti–Money Laundering Copilot (AMLC)](https://medium.com/@seyhunak/designing-autonomous-anti-money-laundering-copilot-amlc-dfcdb9c6318e?source=rss-192c1ebd2112------2)
-- [Designing RAG-Based Banking Knowledge Fabric](https://medium.com/@seyhunak/designing-rag-based-banking-knowledge-fabric-for-banking-05c799f1b8da?source=rss-192c1ebd2112------2)
-- [Designing Real-Time Customer Analytics Hub for Banking: From Event to Personalized Action](https://medium.com/@seyhunak/designing-real-time-customer-analytics-hub-for-banking-from-event-to-personalized-action-b99003b11137?source=rss-192c1ebd2112------2)
-
-<!-- ARTICLES START -->
+- [Designing Document Intelligence Pipeline for Banking: Audit-Ready KYC and Loan Processing](https://medium.com/@seyhunak/designing-document-intelligence-pipeline-for-banking-audit-ready-kyc-and-loan-processing-20a3e9bcfdb3?source=rss-192c1ebd2112------2)
 - [Designing Mobile Trade Approval System — Secure | Regulator-Grade for Banking](https://medium.com/@seyhunak/designing-mobile-trade-approval-system-secure-regulator-grade-for-banking-b6737f9ae671?source=rss-192c1ebd2112------2)
 - [Designing Credit Risk Scoring Platform for Banking — Architectural Decision Record (ADR)](https://medium.com/@seyhunak/designing-credit-risk-scoring-platform-for-banking-architectural-decision-record-adr-14aa06b1c3b2?source=rss-192c1ebd2112------2)
 - [Designing Secure and Natural Voice Banking AI for the Banking](https://medium.com/@seyhunak/designing-secure-and-natural-voice-banking-ai-for-the-banking-5657eb80148c?source=rss-192c1ebd2112------2)
 - [Designing Autonomous Anti–Money Laundering Copilot (AMLC)](https://medium.com/@seyhunak/designing-autonomous-anti-money-laundering-copilot-amlc-dfcdb9c6318e?source=rss-192c1ebd2112------2)
-- [Designing RAG-Based Banking Knowledge Fabric](https://medium.com/@seyhunak/designing-rag-based-banking-knowledge-fabric-for-banking-05c799f1b8da?source=rss-192c1ebd2112------2)
-<!-- ARTICLES END -->
