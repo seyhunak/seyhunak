@@ -80,20 +80,20 @@ I build and lead high-impact AI and product teams, design practical AI systems f
 ### My Gumroad Collection
 
 <!-- GUMROAD-PRODUCT-LIST:START -->
-* **The Manager’s Code: Crafting Cultures of Engineering Excellence** — $19.99
-* **Mastering Financial APIs: Building Advanced Trading Systems and Integrating Modern Banking Solutions** — $19.99
-* **LetsTalk AI** — $20
-* **Bag** — $2.99
-* **Focusa** — $2.99
-* **Noty** — $2.99
-* **Pomidor** — $2.99
-* **TapKeys** — $2.99
-* **Modern Fintech & Banking Transformation: Strategy, Operations, Risk, Leadership & Technology** — $19.99
-* **Let's Talk — AI Tutor English Language Learning** — $20/month
-* **250 Practical Ideas to Revolutionize Your Daily Life using Manus** — $19.99
-* **Ava and Lumo: Adventures in Wonder** — $1.99
-* **AI at Work — How to Future-Proof Your Career in the Age of Automation** — $19.90
-* **Invisible Colleagues: Rethinking Collaboration in the Age of AI** — $19.90
+* **The Manager’s Code: Crafting Cultures of Engineering Excellence**
+* **Mastering Financial APIs: Building Advanced Trading Systems and Integrating Modern Banking Solutions**
+* **LetsTalk AI** 
+* **Bag**
+* **Focusa**
+* **Noty**
+* **Pomidor**
+* **TapKeys**
+* **Modern Fintech & Banking Transformation: Strategy, Operations, Risk, Leadership & Technology**
+* **Let's Talk — AI Tutor English Language Learning**
+* **250 Practical Ideas to Revolutionize Your Daily Life using Manus**
+* **Ava and Lumo: Adventures in Wonder**
+* **AI at Work — How to Future-Proof Your Career in the Age of Automation**
+* **Invisible Colleagues: Rethinking Collaboration in the Age of AI**
 <!-- GUMROAD-PRODUCT-LIST:END -->
 
 ### My Coding 
