@@ -131,4 +131,4 @@ I build and lead high-impact AI and product teams, design practical AI systems f
 - [Designing AI-Driven Customer Lifetime Value (CLV) Platform in Retail Banking](https://medium.com/@seyhunak/designing-ai-driven-customer-lifetime-value-clv-platform-in-retail-banking-b76ded7ffb00?source=rss-192c1ebd2112------2)
 - [Designing an AI-Native Incident Response System for Banking Platforms](https://medium.com/@seyhunak/designing-an-ai-native-incident-response-system-for-banking-platforms-3abb9a91209f?source=rss-192c1ebd2112------2)
 - [Designing Payment Reversals & Dispute Orchestration System for Banking](https://medium.com/@seyhunak/designing-payment-reversals-dispute-orchestration-system-for-banking-7ca379dd04df?source=rss-192c1ebd2112------2)
-<!-- ARTICLES END -->
+
