@@ -51,7 +51,6 @@ I lead AI and product teams, design practical AI systems for enterprise, and wri
 [![Hashnode](https://img.shields.io/badge/Hashnode-Read-blue?logo=hashnode&logoColor=white)](https://seyhunak.hashnode.dev)
 [![Substack](https://img.shields.io/badge/Substack-Subscribe-orange)](https://seyhunak.substack.com)
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube&logoColor=white)](https://youtube.com/@seyhunak)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-ff69b4?logo=instagram&logoColor=white)](https://instagram.com/seyhunak)
 [![Email](https://img.shields.io/badge/Email-Contact-success?logo=gmail&logoColor=white)](mailto:info@seyhunakyurek.com)
 
 ## My Books (Amazon Kindle)
@@ -98,11 +97,6 @@ I lead AI and product teams, design practical AI systems for enterprise, and wri
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 [![StackShare](https://img.shields.io/badge/More-%23EE4C2C.svg?style=for-the-badge&logo=StackShare&logoColor=white)](https://stackshare.io/seyhunak/my-stack)
-
-## GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=seyhunak&hide_rank=true&hide=commits&count_private=true&show_icons=true&hide_border=true&hide_title=false)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seyhunak&layout=compact&hide_border=true)
 
 ## Latest Articles (Substack + Medium)
 
