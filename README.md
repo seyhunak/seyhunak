@@ -1,11 +1,10 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7F7F7&width=435&lines=Hi+%F0%9F%91%8B+I+am+Seyhun+Akyurek)](https://git.io/typing-svg)
+
 # Hi, I'm Seyhun Akyurek
 
 Senior engineering leader with 20+ years building scalable fintech and banking platforms across UAE and Azerbaijan.
 
 I lead AI and product teams, design practical AI systems for enterprise, and write about leadership, engineering culture, and human-centered AI.
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7F7F7&width=435&lines=Hi+%F0%9F%91%8B+I+am+Seyhun+Akyurek)](https://git.io/typing-svg)
-![Profile views](https://komarev.com/ghpvc/?username=seyhunak&color=lightgrey)
 
 ## Current Focus
 
@@ -45,6 +44,7 @@ I lead AI and product teams, design practical AI systems for enterprise, and wri
 
 ## Connect
 
+![Profile views](https://komarev.com/ghpvc/?username=seyhunak&color=lightgrey)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-informational?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seyhunak)
 [![X](https://img.shields.io/badge/X-Follow-black?logo=x&logoColor=white)](https://x.com/seyhunak)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgray?logo=github&logoColor=black)](https://github.com/seyhunak)
@@ -52,16 +52,6 @@ I lead AI and product teams, design practical AI systems for enterprise, and wri
 [![Substack](https://img.shields.io/badge/Substack-Subscribe-orange)](https://seyhunak.substack.com)
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube&logoColor=white)](https://youtube.com/@seyhunak)
 [![Email](https://img.shields.io/badge/Email-Contact-success?logo=gmail&logoColor=white)](mailto:info@seyhunakyurek.com)
-
-## My Books (Amazon Kindle)
-
-- [Invisible Colleagues](https://www.amazon.com/Invisible-Colleagues-Rethinking-Collaboration-Age-ebook/dp/B0FY2RX8H1)
-- [AI at Work](https://www.amazon.com/dp/B0FX3GH5P7)
-- [250 Practical Ideas](https://www.amazon.com/Practical-Ideas-Revolutionize-Daily-using-ebook/dp/B0FDH6HNLM/)
-- [Modern Fintech & Banking Transformation](https://www.amazon.com/Modern-Fintech-Banking-Transformation-Comprehensive-ebook/dp/B0FCW8CDNV)
-- [AI for Fintech](https://www.amazon.com/AI-Fintech-Crafted-framework-ebook/dp/B0FCSM28KN)
-- [Manager's Code](https://www.amazon.com/Managers-Code-Crafting-Engineering-Excellence-ebook/dp/B0DJDFRXC4)
-- [Mastering Financial APIs](https://www.amazon.com/Mastering-Financial-APIs-Integrating-Solutions-ebook/dp/B0DJZ7J1LZ)
 
 ## Gumroad Collection
 
@@ -85,18 +75,15 @@ I lead AI and product teams, design practical AI systems for enterprise, and wri
 ## Toolkit & Technologies
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Swift](https://img.shields.io/badge/swift-%23FA7343.svg?style=for-the-badge&logo=swift&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
 ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
-![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-%23EE4C2C.svg?style=for-the-badge&logo=Streamlit&logoColor=white)
-![Jupyter](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Microsoft](https://img.shields.io/badge/Microsoft-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
-[![StackShare](https://img.shields.io/badge/More-%23EE4C2C.svg?style=for-the-badge&logo=StackShare&logoColor=white)](https://stackshare.io/seyhunak/my-stack)
 
 ## Latest Articles (Substack + Medium)
 
