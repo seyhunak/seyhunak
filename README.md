@@ -91,7 +91,7 @@ I lead AI and product teams, design practical AI systems for enterprise, and wri
 - [Designing Real-Time Multi-Rail Instant Payments Orchestration Platform](https://medium.com/@seyhunak/designing-real-time-multi-rail-instant-payments-orchestration-platform-c3ef34df1cf6?source=rss-192c1ebd2112------2)
 - [Designing AI-Driven Customer Lifetime Value (CLV) Platform in Retail Banking](https://medium.com/@seyhunak/designing-ai-driven-customer-lifetime-value-clv-platform-in-retail-banking-b76ded7ffb00?source=rss-192c1ebd2112------2)
 - [Designing an AI-Native Incident Response System for Banking Platforms](https://medium.com/@seyhunak/designing-an-ai-native-incident-response-system-for-banking-platforms-3abb9a91209f?source=rss-192c1ebd2112------2)
-<!-- ARTICLES END -->
+
 
 ---
 
