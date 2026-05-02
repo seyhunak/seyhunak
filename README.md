@@ -1,6 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7F7F7&width=435&lines=Hi+%F0%9F%91%8B+I+am+Seyhun+Akyurek)](https://git.io/typing-svg)
 
-<img align="left" src="/assets/cubes.gif#gh-dark-mode-only" alt="cubes animation" />
+<img align="left" src="/assets/cubes_transparent.gif#gh-dark-mode-only" alt="cubes animation" />
+<img align="left" src="/assets/cubes_white.gif#gh-light-mode-only" alt="cubes animation" />
 
 Senior engineering leader with 20+ years building scalable fintech and banking platforms across UAE and Azerbaijan.
 
