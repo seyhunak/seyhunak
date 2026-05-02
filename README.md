@@ -1,7 +1,21 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7F7F7&width=435&lines=Hi+%F0%9F%91%8B+I+am+Seyhun+Akyurek)](https://git.io/typing-svg)
 
-<img align="left" src="/assets/cubes_transparent.gif#gh-dark-mode-only" alt="cubes animation" />
-<img align="left" src="/assets/cubes_white.gif#gh-light-mode-only" alt="cubes animation" />
+![cubes animation](/assets/cubes_transparent.gif#gh-dark-mode-only)
+![cubes animation](/assets/cubes_white.gif#gh-light-mode-only)
+
+## Connect
+
+![Profile views](https://komarev.com/ghpvc/?username=seyhunak&color=lightgrey)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-informational?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seyhunak)
+[![X](https://img.shields.io/badge/X-Follow-black?logo=x&logoColor=white)](https://x.com/seyhunak)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgray?logo=github&logoColor=black)](https://github.com/seyhunak)
+[![Hashnode](https://img.shields.io/badge/Hashnode-Read-blue?logo=hashnode&logoColor=white)](https://seyhunak.hashnode.dev)
+[![Substack](https://img.shields.io/badge/Substack-Subscribe-orange)](https://seyhunak.substack.com)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube&logoColor=white)](https://youtube.com/@seyhunak)
+[![Email](https://img.shields.io/badge/Email-Contact-success?logo=gmail&logoColor=white)](mailto:info@seyhunakyurek.com)
+
+
+## About Me
 
 Senior engineering leader with 20+ years building scalable fintech and banking platforms across UAE and Azerbaijan.
 
@@ -42,17 +56,6 @@ I lead AI and product teams, design practical AI systems for enterprise, and wri
 - [Books](https://www.seyhunakyurek.com#Books)
 - [Contact](https://www.seyhunakyurek.com#Contact)
 - [Resume](https://www.seyhunakyurek.com#Resume)
-
-## Connect
-
-![Profile views](https://komarev.com/ghpvc/?username=seyhunak&color=lightgrey)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-informational?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seyhunak)
-[![X](https://img.shields.io/badge/X-Follow-black?logo=x&logoColor=white)](https://x.com/seyhunak)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgray?logo=github&logoColor=black)](https://github.com/seyhunak)
-[![Hashnode](https://img.shields.io/badge/Hashnode-Read-blue?logo=hashnode&logoColor=white)](https://seyhunak.hashnode.dev)
-[![Substack](https://img.shields.io/badge/Substack-Subscribe-orange)](https://seyhunak.substack.com)
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube&logoColor=white)](https://youtube.com/@seyhunak)
-[![Email](https://img.shields.io/badge/Email-Contact-success?logo=gmail&logoColor=white)](mailto:info@seyhunakyurek.com)
 
 ## Gumroad Collection
 
