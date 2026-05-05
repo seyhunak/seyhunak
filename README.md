@@ -96,4 +96,4 @@ I lead AI and product teams, design practical AI systems for enterprise, and wri
 - [Fintech Mobile Architecture Clean Architecture React Native (Expo) Supabase Backend with Zustand +…](https://medium.com/@seyhunak/fintech-mobile-architecture-clean-architecture-react-native-expo-supabase-backend-with-zustand-5857fb7a531f?source=rss-192c1ebd2112------2)
 - [Let's Design High-Throughput Ticketing System for Bursty Traffic Sites](https://medium.com/@seyhunak/lets-design-high-throughput-ticketing-system-for-bursty-traffic-sites-d00d4f9c1d5c?source=rss-192c1ebd2112------2)
 - [Designing Real-Time Multi-Rail Instant Payments Orchestration Platform](https://medium.com/@seyhunak/designing-real-time-multi-rail-instant-payments-orchestration-platform-c3ef34df1cf6?source=rss-192c1ebd2112------2)
-<!-- ARTICLES END -->
+
