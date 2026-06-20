@@ -96,12 +96,4 @@ I lead AI and product teams, design practical AI systems for enterprise, and wri
 - [Turning Your Mac into a Distraction-Free Focus Clock](https://medium.com/@seyhunak/turning-your-mac-into-a-distraction-free-focus-clock-32925e0cd0f7?source=rss-192c1ebd2112------2)
 - [Building an Autonomous Company Operating System with Crafted AI Platform MCP, Hermes and Obsidian](https://medium.com/@seyhunak/building-an-autonomous-company-operating-system-with-crafted-ai-platform-mcp-hermes-and-obsidian-ec7d94bc22e9?source=rss-192c1ebd2112------2)
 - [Announcing ActiveGuard for Parental Control](https://medium.com/@seyhunak/announcing-activeguard-for-parental-control-ad97b479a9ae?source=rss-192c1ebd2112------2)
-
-
-<!-- ARTICLES START -->
-- [Local-first AI memory layer. Plain markdown. Obsidian-native. Zero infrastructure.](https://medium.com/@seyhunak/local-first-ai-memory-layer-plain-markdown-obsidian-native-zero-infrastructure-059c945894f5?source=rss-192c1ebd2112------2)
-- [Spreadsheets Are Quietly Breaking Small Business Finance](https://medium.com/@seyhunak/spreadsheets-are-quietly-breaking-small-business-finance-5f4b1663e457?source=rss-192c1ebd2112------2)
-- [Turning Your Mac into a Distraction-Free Focus Clock](https://medium.com/@seyhunak/turning-your-mac-into-a-distraction-free-focus-clock-32925e0cd0f7?source=rss-192c1ebd2112------2)
-- [Building an Autonomous Company Operating System with Crafted AI Platform MCP, Hermes and Obsidian](https://medium.com/@seyhunak/building-an-autonomous-company-operating-system-with-crafted-ai-platform-mcp-hermes-and-obsidian-ec7d94bc22e9?source=rss-192c1ebd2112------2)
-- [Announcing ActiveGuard for Parental Control](https://medium.com/@seyhunak/announcing-activeguard-for-parental-control-ad97b479a9ae?source=rss-192c1ebd2112------2)
 <!-- ARTICLES END -->
