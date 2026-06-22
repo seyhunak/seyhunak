@@ -1,7 +1,204 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7F7F7&width=435&lines=Hi+%F0%9F%91%8B+I+am+Seyhun+Akyurek)](https://git.io/typing-svg)
 
-![cubes animation](/assets/cubes_transparent.gif#gh-dark-mode-only)
-![cubes animation](/assets/cubes_white.gif#gh-light-mode-only)
+**AI Delivery Lead • Enterprise Architect • Engineering Leader • Owner of Crafted AI Company**
+
+I help organizations turn ambitious ideas into production-ready AI platforms, digital products, and scalable engineering organizations.
+
+With 20+ years of experience across fintech, banking, and enterprise technology, I have led teams delivering cloud-native platforms, AI solutions, mobile applications, and large-scale digital transformation programs throughout the UAE and Azerbaijan.
+
+<p align="center">
+  <img src="/assets/cubes_transparent.gif#gh-dark-mode-only" width="200">
+  <img src="/assets/cubes_white.gif#gh-light-mode-only" width="200">
+</p>
+
+## What I Do
+
+### AI Strategy & Delivery
+
+* Enterprise AI transformation
+* Generative AI platforms
+* RAG and knowledge systems
+* AI agents and workflow automation
+* AI governance and responsible AI
+* Production AI operations
+
+### Architecture & Engineering
+
+* Cloud-native architecture
+* Distributed systems
+* API platforms
+* Platform engineering
+* Mobile engineering
+* DevOps & MLOps
+
+### Leadership
+
+* Building high-performing teams
+* Engineering management coaching
+* Delivery governance
+* Technology strategy
+* Product execution
+* Organizational transformation
+
+---
+
+## Current Focus
+
+* Building practical enterprise AI systems
+* Designing production-ready agent architectures
+* Creating AI operating systems for organizations
+* Helping teams adopt AI responsibly
+* Writing about leadership, engineering, and AI
+
+---
+
+## Professional Highlights
+
+🏦 Banking & Fintech Leadership
+
+* Delivered large-scale digital banking initiatives
+* Led architecture and engineering teams
+* Built enterprise-grade platforms serving thousands of users
+* Implemented AI-driven customer and operational solutions
+
+🤖 AI Platforms
+
+* Enterprise RAG architectures
+* Agent orchestration platforms
+* Vector databases and retrieval systems
+* AI governance frameworks
+* LLM application architecture
+
+📱 Product Development
+
+* Mobile platforms (iOS, Android, Flutter)
+* SaaS products
+* Internal developer platforms
+* Customer-facing digital products
+
+---
+
+
+## Technology Stack
+
+### Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge\&logo=swift\&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge\&logo=ruby\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+
+### AI & Machine Learning
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge\&logo=openai\&logoColor=white)
+![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121D33?style=for-the-badge)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF6B35?style=for-the-badge)
+![MCP](https://img.shields.io/badge/Model_Context_Protocol-000000?style=for-the-badge)
+![Vector\_DBs](https://img.shields.io/badge/Vector_Databases-4B0082?style=for-the-badge)
+
+### Cloud & Infrastructure
+
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
+![Azure Kubernetes Service](https://img.shields.io/badge/AKS-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
+![Azure Functions](https://img.shields.io/badge/Azure_Functions-0062AD?style=for-the-badge\&logo=azurefunctions\&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge\&logo=azuredevops\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
+
+### Backend Engineering
+
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge\&logo=fastapi)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/Rails-CC0000?style=for-the-badge\&logo=rubyonrails\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-D92C20?style=for-the-badge\&logo=redis\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+
+### Mobile Development
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge\&logo=ios\&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0061FF?style=for-the-badge\&logo=swift\&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge\&logo=xcode\&logoColor=white)
+
+### DevOps & CI/CD
+
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=github-actions\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge\&logo=terraform\&logoColor=white)
+
+### Architecture & Delivery
+
+![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge)
+![Event\_Driven\_Architecture](https://img.shields.io/badge/Event_Driven-1E88E5?style=for-the-badge)
+![Domain\_Driven\_Design](https://img.shields.io/badge/DDD-6A1B9A?style=for-the-badge)
+![MLOps](https://img.shields.io/badge/MLOps-0F9D58?style=for-the-badge)
+![AIOps](https://img.shields.io/badge/AIOps-4285F4?style=for-the-badge)
+![FinOps](https://img.shields.io/badge/FinOps-F57C00?style=for-the-badge)
+
+### Tools
+
+![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge\&logo=obsidian\&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-100000?style=for-the-badge\&logo=vercel\&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge\&logo=notion\&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge\&logo=jira\&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
+
+---
+
+## Open Source
+
+### twitter-bootstrap-rails
+
+Maintainer and contributor supporting the Ruby on Rails ecosystem.
+
+🔗 https://github.com/seyhunak/twitter-bootstrap-rails
+
+### More Projects
+
+🔗 https://github.com/seyhunak
+
+---
+
+## Writing & Publications
+
+I regularly write about:
+
+* Artificial Intelligence
+* Engineering Leadership
+* Software Architecture
+* Product Development
+* Fintech Innovation
+* Future of Work
+
+### Publications
+
+* Medium
+* Substack
+* Hashnode
+* Dev.to
+
+---
+
+## Books & Digital Products
+
+Author of resources covering:
+
+* AI adoption and transformation
+* Engineering leadership
+* Fintech modernization
+* Career development in the AI era
+* Organizational effectiveness
+
+Available through Gumroad.
+
+## Articles
+
+<!-- ARTICLES START -->
+<!-- ARTICLES END -->
+
+---
 
 ## Connect
 
@@ -12,96 +209,12 @@
 [![Hashnode](https://img.shields.io/badge/Hashnode-Read-blue?logo=hashnode&logoColor=white)](https://seyhunak.hashnode.dev)
 [![Substack](https://img.shields.io/badge/Substack-Subscribe-orange)](https://seyhunak.substack.com)
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube&logoColor=white)](https://youtube.com/@seyhunak)
-[![Email](https://img.shields.io/badge/Email-Contact-success?logo=gmail&logoColor=white)](mailto:info@seyhunakyurek.com)
+[![Website](https://img.shields.io/badge/Email-Contact-success?logo=gmail&logoColor=white)](https://www.seyhunakyurek.com)
 
+---
 
-## About Me
+## Philosophy
 
-Senior engineering leader with 20+ years building scalable fintech and banking platforms across UAE and Azerbaijan.
+> Technology is valuable only when it creates measurable outcomes for people and organizations.
 
-I lead AI and product teams, design practical AI systems for enterprise, and write about leadership, engineering culture, and human-centered AI.
-
-## Current Focus
-
-- Leading AI product strategy from prototype to production.
-- Building reliable RAG layers, vector stores, and AI agents for fintech and enterprise.
-- Coaching engineering managers on communication, execution, and measurable culture change.
-- Writing and speaking on AI ethics, collaboration, and the future of work.
-
-## Quick Snapshot
-
-- Currently at [Crafted](https://we-crafted.com/)
-- Formerly at [Commercial Bank of Dubai](https://cbd.ae/)
-- Active in management/leadership, Swift (iOS), and Python
-- Open to collaboration on [open source projects](https://github.com/seyhunak)
-- Maintainer/supporter of [twitter-bootstrap-rails](https://github.com/seyhunak/twitter-bootstrap-rails)
-- Portfolio: [seyhunakyurek.com](https://www.seyhunakyurek.com/)
-- Articles: [dev.to/seyhunak](https://dev.to/seyhunak)
-- Credentials: [Credly](https://www.credly.com/users/seyhunak)
-- Resume/Profile: [LinkedIn](https://www.linkedin.com/in/seyhunak)
-
-## Projects
-
-- `twitter-bootstrap-rails`: maintenance and community contributions  
-  [https://github.com/seyhunak/twitter-bootstrap-rails](https://github.com/seyhunak/twitter-bootstrap-rails)
-- All repositories: [https://github.com/seyhunak](https://github.com/seyhunak)
-
-## Website Sections
-
-- [Home](https://www.seyhunakyurek.com)
-- [About](https://www.seyhunakyurek.com#About)
-- [Skills](https://www.seyhunakyurek.com#Skills)
-- [Experience](https://www.seyhunakyurek.com#Experience)
-- [Open Source Projects](https://www.seyhunakyurek.com#Open-Source-Projects)
-- [Books](https://www.seyhunakyurek.com#Books)
-- [Contact](https://www.seyhunakyurek.com#Contact)
-- [Resume](https://www.seyhunakyurek.com#Resume)
-
-## Gumroad Collection
-
-<!-- GUMROAD-PRODUCT-LIST:START -->
-- **The Manager’s Code: Crafting Cultures of Engineering Excellence**
-- **Mastering Financial APIs: Building Advanced Trading Systems and Integrating Modern Banking Solutions**
-- **LetsTalk AI**
-- **Bag**
-- **Focusa**
-- **Noty**
-- **Pomidor**
-- **TapKeys**
-- **Modern Fintech & Banking Transformation: Strategy, Operations, Risk, Leadership & Technology**
-- **Let's Talk — AI Tutor English Language Learning**
-- **250 Practical Ideas to Revolutionize Your Daily Life using Manus**
-- **Ava and Lumo: Adventures in Wonder**
-- **AI at Work — How to Future-Proof Your Career in the Age of Automation**
-- **Invisible Colleagues: Rethinking Collaboration in the Age of AI**
-<!-- GUMROAD-PRODUCT-LIST:END -->
-
-## Toolkit & Technologies
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Swift](https://img.shields.io/badge/swift-%23FA7343.svg?style=for-the-badge&logo=swift&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
-![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Microsoft](https://img.shields.io/badge/Microsoft-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
-
-## Latest Articles (Substack + Medium)
-<!-- ARTICLES START -->
-- [Local-first AI memory layer. Plain markdown. Obsidian-native. Zero infrastructure.](https://medium.com/@seyhunak/local-first-ai-memory-layer-plain-markdown-obsidian-native-zero-infrastructure-059c945894f5?source=rss-192c1ebd2112------2)
-- [Spreadsheets Are Quietly Breaking Small Business Finance](https://medium.com/@seyhunak/spreadsheets-are-quietly-breaking-small-business-finance-5f4b1663e457?source=rss-192c1ebd2112------2)
-- [Turning Your Mac into a Distraction-Free Focus Clock](https://medium.com/@seyhunak/turning-your-mac-into-a-distraction-free-focus-clock-32925e0cd0f7?source=rss-192c1ebd2112------2)
-- [Building an Autonomous Company Operating System with Crafted AI Platform MCP, Hermes and Obsidian](https://medium.com/@seyhunak/building-an-autonomous-company-operating-system-with-crafted-ai-platform-mcp-hermes-and-obsidian-ec7d94bc22e9?source=rss-192c1ebd2112------2)
-- [Announcing ActiveGuard for Parental Control](https://medium.com/@seyhunak/announcing-activeguard-for-parental-control-ad97b479a9ae?source=rss-192c1ebd2112------2)
-
-
-<!-- ARTICLES START -->
-- [Local-first AI memory layer. Plain markdown. Obsidian-native. Zero infrastructure.](https://medium.com/@seyhunak/local-first-ai-memory-layer-plain-markdown-obsidian-native-zero-infrastructure-059c945894f5?source=rss-192c1ebd2112------2)
-- [Spreadsheets Are Quietly Breaking Small Business Finance](https://medium.com/@seyhunak/spreadsheets-are-quietly-breaking-small-business-finance-5f4b1663e457?source=rss-192c1ebd2112------2)
-- [Turning Your Mac into a Distraction-Free Focus Clock](https://medium.com/@seyhunak/turning-your-mac-into-a-distraction-free-focus-clock-32925e0cd0f7?source=rss-192c1ebd2112------2)
-- [Building an Autonomous Company Operating System with Crafted AI Platform MCP, Hermes and Obsidian](https://medium.com/@seyhunak/building-an-autonomous-company-operating-system-with-crafted-ai-platform-mcp-hermes-and-obsidian-ec7d94bc22e9?source=rss-192c1ebd2112------2)
-- [Announcing ActiveGuard for Parental Control](https://medium.com/@seyhunak/announcing-activeguard-for-parental-control-ad97b479a9ae?source=rss-192c1ebd2112------2)
-<!-- ARTICLES END -->
+I enjoy building practical systems, mentoring leaders, contributing to open source, and exploring how AI can augment human capability rather than replace it.
