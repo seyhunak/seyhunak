@@ -193,8 +193,6 @@ Author of resources covering:
 
 Available through Gumroad.
 
-## Articles
-
 <!-- ARTICLES START -->
 <!-- ARTICLES END -->
 
