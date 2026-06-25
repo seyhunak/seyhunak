@@ -194,38 +194,8 @@ Author of resources covering:
 Available through Gumroad.
 
 <!-- ARTICLES START -->
+- [Engineering Agentic Guardrails: A Blueprint for Secure Autonomous AI Architecture](https://medium.com/@seyhunak/engineering-agentic-guardrails-a-blueprint-for-secure-autonomous-ai-architecture-687e347f137a?source=rss-192c1ebd2112------2)
 - [Local-first AI memory layer. Plain markdown. Obsidian-native. Zero infrastructure.](https://medium.com/@seyhunak/local-first-ai-memory-layer-plain-markdown-obsidian-native-zero-infrastructure-059c945894f5?source=rss-192c1ebd2112------2)
 - [Spreadsheets Are Quietly Breaking Small Business Finance](https://medium.com/@seyhunak/spreadsheets-are-quietly-breaking-small-business-finance-5f4b1663e457?source=rss-192c1ebd2112------2)
 - [Turning Your Mac into a Distraction-Free Focus Clock](https://medium.com/@seyhunak/turning-your-mac-into-a-distraction-free-focus-clock-32925e0cd0f7?source=rss-192c1ebd2112------2)
 - [Building an Autonomous Company Operating System with Crafted AI Platform MCP, Hermes and Obsidian](https://medium.com/@seyhunak/building-an-autonomous-company-operating-system-with-crafted-ai-platform-mcp-hermes-and-obsidian-ec7d94bc22e9?source=rss-192c1ebd2112------2)
-- [Announcing ActiveGuard for Parental Control](https://medium.com/@seyhunak/announcing-activeguard-for-parental-control-ad97b479a9ae?source=rss-192c1ebd2112------2)
-
-
----
-
-## Connect
-
-![Profile views](https://komarev.com/ghpvc/?username=seyhunak&color=lightgrey)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-informational?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seyhunak)
-[![X](https://img.shields.io/badge/X-Follow-black?logo=x&logoColor=white)](https://x.com/seyhunak)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgray?logo=github&logoColor=black)](https://github.com/seyhunak)
-[![Hashnode](https://img.shields.io/badge/Hashnode-Read-blue?logo=hashnode&logoColor=white)](https://seyhunak.hashnode.dev)
-[![Substack](https://img.shields.io/badge/Substack-Subscribe-orange)](https://seyhunak.substack.com)
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube&logoColor=white)](https://youtube.com/@seyhunak)
-[![Website](https://img.shields.io/badge/Email-Contact-success?logo=gmail&logoColor=white)](https://www.seyhunakyurek.com)
-
----
-
-## Philosophy
-
-> Technology is valuable only when it creates measurable outcomes for people and organizations.
-
-I enjoy building practical systems, mentoring leaders, contributing to open source, and exploring how AI can augment human capability rather than replace it.
-
-<!-- ARTICLES START -->
-- [Local-first AI memory layer. Plain markdown. Obsidian-native. Zero infrastructure.](https://medium.com/@seyhunak/local-first-ai-memory-layer-plain-markdown-obsidian-native-zero-infrastructure-059c945894f5?source=rss-192c1ebd2112------2)
-- [Spreadsheets Are Quietly Breaking Small Business Finance](https://medium.com/@seyhunak/spreadsheets-are-quietly-breaking-small-business-finance-5f4b1663e457?source=rss-192c1ebd2112------2)
-- [Turning Your Mac into a Distraction-Free Focus Clock](https://medium.com/@seyhunak/turning-your-mac-into-a-distraction-free-focus-clock-32925e0cd0f7?source=rss-192c1ebd2112------2)
-- [Building an Autonomous Company Operating System with Crafted AI Platform MCP, Hermes and Obsidian](https://medium.com/@seyhunak/building-an-autonomous-company-operating-system-with-crafted-ai-platform-mcp-hermes-and-obsidian-ec7d94bc22e9?source=rss-192c1ebd2112------2)
-- [Announcing ActiveGuard for Parental Control](https://medium.com/@seyhunak/announcing-activeguard-for-parental-control-ad97b479a9ae?source=rss-192c1ebd2112------2)
-<!-- ARTICLES END -->
