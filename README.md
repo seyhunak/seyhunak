@@ -194,16 +194,8 @@ Author of resources covering:
 Available through Gumroad.
 
 <!-- ARTICLES START -->
-- [Building an AI Security Pipeline: Autonomous DevSecOps](https://medium.com/@seyhunak/building-an-ai-security-pipeline-autonomous-devsecops-bb8419ba1488?source=rss-192c1ebd2112------2)
-- [Architecting the Future: Inside the 6-Layer Zero-Trust AI Architecture](https://medium.com/@seyhunak/architecting-the-future-inside-the-6-layer-zero-trust-ai-architecture-7f8e853fc5ba?source=rss-192c1ebd2112------2)
-- [Engineering Trust: A Blueprint for Deploying Generative AI in Regulated Banking](https://medium.com/@seyhunak/engineering-trust-a-blueprint-for-deploying-generative-ai-in-regulated-banking-e75b95826861?source=rss-192c1ebd2112------2)
-- [Engineering Agentic Guardrails: A Blueprint for Secure Autonomous AI Architecture](https://medium.com/@seyhunak/engineering-agentic-guardrails-a-blueprint-for-secure-autonomous-ai-architecture-687e347f137a?source=rss-192c1ebd2112------2)
-- [Local-first AI memory layer. Plain markdown. Obsidian-native. Zero infrastructure.](https://medium.com/@seyhunak/local-first-ai-memory-layer-plain-markdown-obsidian-native-zero-infrastructure-059c945894f5?source=rss-192c1ebd2112------2)
-
-<!-- ARTICLES START -->
 - [Building an AI Security Operations Center (AI-SOC)](https://medium.com/@seyhunak/building-an-ai-security-operations-center-ai-soc-1e83fe3f795d?source=rss-192c1ebd2112------2)
 - [Building an AI Security Pipeline: Autonomous DevSecOps](https://medium.com/@seyhunak/building-an-ai-security-pipeline-autonomous-devsecops-bb8419ba1488?source=rss-192c1ebd2112------2)
 - [Architecting the Future: Inside the 6-Layer Zero-Trust AI Architecture](https://medium.com/@seyhunak/architecting-the-future-inside-the-6-layer-zero-trust-ai-architecture-7f8e853fc5ba?source=rss-192c1ebd2112------2)
 - [Engineering Trust: A Blueprint for Deploying Generative AI in Regulated Banking](https://medium.com/@seyhunak/engineering-trust-a-blueprint-for-deploying-generative-ai-in-regulated-banking-e75b95826861?source=rss-192c1ebd2112------2)
 - [Engineering Agentic Guardrails: A Blueprint for Secure Autonomous AI Architecture](https://medium.com/@seyhunak/engineering-agentic-guardrails-a-blueprint-for-secure-autonomous-ai-architecture-687e347f137a?source=rss-192c1ebd2112------2)
-<!-- ARTICLES END -->
