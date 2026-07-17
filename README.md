@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7F7F7&width=435&lines=Hi+%F0%9F%91%8B+I+am+Seyhun+Akyurek)](https://git.io/typing-svg)
 
-**AI Delivery Lead • Enterprise Architect • Engineering Leader
+**AI Delivery Lead • Enterprise Architect • Engineering Leader**
 
 I help organizations turn ambitious ideas into production-ready AI platforms, digital products, and scalable engineering organizations.
 
