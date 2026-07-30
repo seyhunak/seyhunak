@@ -199,3 +199,11 @@ Available through Gumroad.
 - [Enterprise AI Playbook for Banking](https://medium.com/@seyhunak/enterprise-ai-playbook-for-banking-a3647c9a215c?source=rss-192c1ebd2112------2)
 - [Building an AI Control Plane: Operating Thousands of AI Agents in Production](https://medium.com/@seyhunak/building-an-ai-control-plane-operating-thousands-of-ai-agents-in-production-02f791b0c27e?source=rss-192c1ebd2112------2)
 - [Building an AI Security Operations Center (AI-SOC)](https://medium.com/@seyhunak/building-an-ai-security-operations-center-ai-soc-1e83fe3f795d?source=rss-192c1ebd2112------2)
+
+<!-- ARTICLES START -->
+- [The Real Cost of Running LLMs in Production: A Complete Breakdown](https://medium.com/@seyhunak/the-real-cost-of-running-llms-in-production-a-complete-breakdown-982c80304a10?source=rss-192c1ebd2112------2)
+- [Why Most Enterprise AI Projects Fail Before Production](https://medium.com/@seyhunak/why-most-enterprise-ai-projects-fail-before-production-fdfbd1331794?source=rss-192c1ebd2112------2)
+- [GenAI in Regulated Banking: What Actually Works](https://medium.com/@seyhunak/genai-in-regulated-banking-what-actually-works-7f51ce3bb80f?source=rss-192c1ebd2112------2)
+- [Building an AI Center of Excellence: A Strategic Blueprint for 2026](https://medium.com/@seyhunak/building-an-ai-center-of-excellence-a-strategic-blueprint-for-2026-433db058c33f?source=rss-192c1ebd2112------2)
+- [Enterprise AI Playbook for Banking](https://medium.com/@seyhunak/enterprise-ai-playbook-for-banking-a3647c9a215c?source=rss-192c1ebd2112------2)
+<!-- ARTICLES END -->
