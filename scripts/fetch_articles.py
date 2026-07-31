@@ -1,3 +1,5 @@
+import sys
+
 import feedparser
 
 # Add your Substack or Medium RSS URLs
@@ -6,26 +8,40 @@ FEEDS = [
     "https://medium.com/feed/@seyhunak"
 ]
 
+README = "README.md"
+START_TAG = "<!-- ARTICLES START -->"
+END_TAG = "<!-- ARTICLES END -->"
+
 latest_articles = []
 
 for feed_url in FEEDS:
     feed = feedparser.parse(feed_url)
+    if feed.bozo:
+        print(f"warning: could not parse {feed_url}: {feed.bozo_exception}", file=sys.stderr)
     for entry in feed.entries[:5]:  # 5 latest per feed
         latest_articles.append(f"- [{entry.title}]({entry.link})")
 
-with open("README.md", "r", encoding="utf-8") as f:
+# A transient feed outage must not silently wipe the existing list.
+if not latest_articles:
+    print("error: no articles fetched, leaving README unchanged", file=sys.stderr)
+    sys.exit(1)
+
+with open(README, "r", encoding="utf-8") as f:
     content = f.read()
 
-start_tag = "<!-- ARTICLES START -->"
-end_tag = "<!-- ARTICLES END -->"
-
-if start_tag in content and end_tag in content:
-    before = content.split(start_tag)[0] + start_tag + "\n"
-    after = "\n" + content.split(end_tag)[1]
+# Rebuild the block from scratch so a missing or duplicated marker heals
+# instead of accumulating. `head`/`tail` are everything outside the block.
+head, has_start, rest = content.partition(START_TAG)
+if has_start:
+    _, has_end, tail = rest.partition(END_TAG)
+    if not has_end:
+        # Stale list with no closing marker: drop it, we regenerate below.
+        tail = ""
 else:
-    # If tags are missing, append at the end
-    before = content + "\n" + start_tag + "\n"
-    after = "\n" + end_tag
+    head, tail = content.rstrip("\n") + "\n\n", ""
 
-with open("README.md", "w", encoding="utf-8") as f:
-    f.write(before + "\n".join(latest_articles) + after)
+block = START_TAG + "\n" + "\n".join(latest_articles) + "\n" + END_TAG
+content = head + block + (tail if tail.startswith("\n") else "\n" + tail)
+
+with open(README, "w", encoding="utf-8") as f:
+    f.write(content)
