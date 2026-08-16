@@ -203,11 +203,11 @@ Available through Gumroad.
 ## Latest Articles
 
 <!-- ARTICLES START -->
+- [Production Multi-Agent Systems: Architecture Patterns for Enterprise AI](https://medium.com/@seyhunak/production-multi-agent-systems-architecture-patterns-for-enterprise-ai-e3ab8af62a83?source=rss-192c1ebd2112------2)
 - [AI Governance in Banking: The Playbook for Safe, Compliant, and Defensible AI](https://medium.com/@seyhunak/ai-governance-in-banking-the-playbook-for-safe-compliant-and-defensible-ai-e5c5dc6c3279?source=rss-192c1ebd2112------2)
 - [LLM-as-a-Judge: The Complete Guide to Using AI to Evaluate AI](https://medium.com/@seyhunak/llm-as-a-judge-the-complete-guide-to-using-ai-to-evaluate-ai-1f21448c8942?source=rss-192c1ebd2112------2)
 - [The Real Cost of Running LLMs in Production: A Complete Breakdown](https://medium.com/@seyhunak/the-real-cost-of-running-llms-in-production-a-complete-breakdown-982c80304a10?source=rss-192c1ebd2112------2)
 - [Why Most Enterprise AI Projects Fail Before Production](https://medium.com/@seyhunak/why-most-enterprise-ai-projects-fail-before-production-fdfbd1331794?source=rss-192c1ebd2112------2)
-- [GenAI in Regulated Banking: What Actually Works](https://medium.com/@seyhunak/genai-in-regulated-banking-what-actually-works-7f51ce3bb80f?source=rss-192c1ebd2112------2)
 <!-- ARTICLES END -->
 
 <sub>Updated daily from my Medium and Substack feeds.</sub>
