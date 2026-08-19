@@ -7,6 +7,7 @@
 **AI Delivery Lead • Enterprise Architect • Engineering Leader**
 
 [![Website](https://img.shields.io/badge/Website-seyhunakyurek.com-0A0A0A?style=flat-square&logo=googlechrome&logoColor=white)](https://www.seyhunakyurek.com/)
+[![Resume](https://img.shields.io/badge/Resume-seyhunakyurek.com%2Fresume-0A0A0A?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://seyhunakyurek.com/resume)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-seyhunak-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seyhunak/)
 [![Medium](https://img.shields.io/badge/Medium-@seyhunak-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@seyhunak)
 [![Substack](https://img.shields.io/badge/Substack-seyhunak-FF6719?style=flat-square&logo=substack&logoColor=white)](https://seyhunak.substack.com/)
@@ -16,10 +17,73 @@ I help organizations turn ambitious ideas into production-ready AI platforms, di
 
 With 20+ years of experience across fintech, banking, and enterprise technology, I have led teams delivering cloud-native platforms, AI solutions, mobile applications, and large-scale digital transformation programs throughout the UAE and Azerbaijan.
 
-<p align="center">
-  <img src="/assets/cubes_transparent.gif#gh-dark-mode-only" width="200">
-  <img src="/assets/cubes_white.gif#gh-light-mode-only" width="200">
-</p>
+## Summary
+
+Seasoned technology leader with 20+ years of experience transforming complex challenges into elegant, scalable solutions across fintech, banking, and global marketplaces — specializing in **production AI systems for regulated industries**. Proven track record of delivering high-stakes financial technology and leading world-class engineering teams across 13+ organizations.
+
+---
+
+## Professional Experience
+
+### 🤖 AI Delivery Lead / Solution Architect — Independent Consultant
+*Ankara, Türkiye · Jan 2024 – Present*
+
+Building AI programs using Python, Azure OpenAI, and Anthropic that help customers automate business processes.
+
+* Cut monthly inference costs by implementing LLMOps monitoring — model drift detection, token usage tracking, and cost allocation dashboards
+* Stopped fraudulent transactions in real time with a scoring system combining AI with traditional ML, reducing false alarms for the bank
+* Lowered compliance team research time by building a RAG pipeline over regulatory documents using Pinecone vector search
+* Designed and deployed a multi-agent KYC screening system using LangChain, Azure OpenAI, and Anthropic LLMs
+
+**Technologies:** Python · Azure OpenAI · Anthropic · LangChain · RAG · Pinecone · Multi-Agent Orchestration · LLMOps
+
+### 🏦 Team Leader, Applications — Commercial Bank of Dubai
+*Dubai, UAE · Jan 2022 – Dec 2024*
+
+Managed the teams building and running the bank's mobile app and all personal banking group applications, including direct customer onboarding, personal loan, and credit card application systems.
+
+* Translated regulatory requirements into technical roadmaps for business, compliance, and IT stakeholders
+* Maintained **100% on-time delivery** across 12 major releases while leading a cross-functional team of 10 engineers, BAs, and testers
+* Cut release cycle from **2 weeks to 2 days** by implementing proper governance and CI/CD pipelines
+* Improved deployment frequency from bi-weekly to **daily** by migrating from a legacy monolith to a structured governance model
+* Reduced annual security audit findings by driving PCI DSS compliance across application layers
+
+**Technologies:** Kubernetes · Docker · CI/CD · PCI DSS · Microservices · iOS · Android · Swift
+
+### 🏛️ Engineering Manager — International Bank of Azerbaijan
+*Baku, Azerbaijan · Jan 2020 – Dec 2022*
+
+Managed the engineers running the bank's systems — modernizing accounts, transactions, and customer verification.
+
+* Secured approval for mobile architecture modernization through executive-level business case presentations
+* Completed a full digital overhaul of the mobile banking platform in **18 months**, managing an 8-engineer team plus 4 outsource staff
+* Modernized payment processing by architecting a Swift-based mobile app, handling **500K+ monthly transactions** end to end
+* Cut manual compliance review time by deploying automated release workflows
+* Established engineering standards: code review guidelines, **90%+ automated test coverage**, and structured incident response
+
+**Technologies:** Swift · iOS · Mobile Architecture · CI/CD · Test Automation · Incident Response · KYC/AML
+
+### 💳 Senior Software Engineer — ING Bank / eBay
+*Istanbul, Türkiye · Jan 2015 – Dec 2019*
+
+Built and maintained the mobile app customers use to move money, log in, and register their accounts.
+
+* Shipped high-throughput payment processing and e-commerce features in the mobile app (Swift), covering money transfers, login, and registration
+* Reduced fraud false positives while accelerating screening by designing automated fraud detection pipelines
+* Mentored junior engineers and led technical design reviews
+
+**Technologies:** Swift · Python · REST APIs · Microservices · Fraud Detection · Payment Processing
+
+---
+
+## Education
+
+### B.Sc. Electronics and Communication Engineering
+*Kirikkale University — Ankara, Türkiye · Graduated 2005*
+
+GPA: 78/100
+
+---
 
 ## What I Do
 
@@ -62,32 +126,6 @@ With 20+ years of experience across fintech, banking, and enterprise technology,
 
 ---
 
-## Professional Highlights
-
-🏦 Banking & Fintech Leadership
-
-* Delivered large-scale digital banking initiatives
-* Led architecture and engineering teams
-* Built enterprise-grade platforms serving thousands of users
-* Implemented AI-driven customer and operational solutions
-
-🤖 AI Platforms
-
-* Enterprise RAG architectures
-* Agent orchestration platforms
-* Vector databases and retrieval systems
-* AI governance frameworks
-* LLM application architecture
-
-📱 Product Development
-
-* Mobile platforms (iOS, Android, Flutter)
-* SaaS products
-* Internal developer platforms
-* Customer-facing digital products
-
----
-
 ## Technology Stack
 
 ### Programming Languages
@@ -102,14 +140,20 @@ With 20+ years of experience across fintech, banking, and enterprise technology,
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-121D33?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
 ![CrewAI](https://img.shields.io/badge/CrewAI-FF6B35?style=for-the-badge)
 ![MCP](https://img.shields.io/badge/Model_Context_Protocol-000000?style=for-the-badge)
 ![Vector DBs](https://img.shields.io/badge/Vector_Databases-4B0082?style=for-the-badge)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-00B8D9?style=for-the-badge)
+![LLMOps](https://img.shields.io/badge/LLMOps-0F9D58?style=for-the-badge)
 
 ### Cloud & Infrastructure
 
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Azure Kubernetes Service](https://img.shields.io/badge/AKS-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Azure Functions](https://img.shields.io/badge/Azure_Functions-0062AD?style=for-the-badge&logo=azurefunctions&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
@@ -153,6 +197,34 @@ With 20+ years of experience across fintech, banking, and enterprise technology,
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+## Certifications & Badges
+
+### IBM
+
+* Enterprise AI Business Solutions
+* AI Efficiencies and Governance
+* Human-AI Collaborative Planning
+* Python for Data Science
+* AI Fundamentals: Foundations for Understanding AI
+* AI Fundamentals with IBM
+
+### Anthropic
+
+* Building with the Claude API
+* Claude Code in Action
+* AI Fluency Framework & Foundations
+
+View the full credential set on [Credly](https://www.credly.com/users/seyhunakyurek).
+
+---
+
+## Languages
+
+* **English** — C2 Proficiency (verbal, writing, speaking)
+* **German** — B1 Intermediate
 
 ---
 
