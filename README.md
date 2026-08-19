@@ -1,5 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7F7F7&width=435&lines=Hi+%F0%9F%91%8B+I+am+Seyhun+Akyurek)](https://github.com/DenverCoder1/readme-typing-svg)
 
+<p align="center">
+  <img src="assets/hex-pipeline.svg" alt="AI delivery pipeline: assess, govern, retrieve, orchestrate" width="100%">
+</p>
+
 **AI Delivery Lead • Enterprise Architect • Engineering Leader**
 
 [![Website](https://img.shields.io/badge/Website-seyhunakyurek.com-0A0A0A?style=flat-square&logo=googlechrome&logoColor=white)](https://www.seyhunakyurek.com/)
