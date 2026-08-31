@@ -14,7 +14,7 @@
 [![Dev.to](https://img.shields.io/badge/Dev.to-seyhunak-0A0A0A?style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/seyhunak)
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=seyhunak" alt="GitHub streak stats" />
+  <img src="https://streak-stats.demolab.com/?user=seyhunak&theme=dark" alt="GitHub streak stats" />
 </p>
 
 I help organizations turn ambitious ideas into production-ready AI platforms, digital products, and scalable engineering organizations — with 20+ years across fintech, banking, and enterprise technology in the UAE and Azerbaijan.
