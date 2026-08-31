@@ -1,0 +1,26 @@
+name: Daily README Backup
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  backup:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Create dated backup
+        run: |
+          mkdir -p backups
+          cp README.md "backups/README-$(date +%Y-%m-%d).md"
+
+      - name: Commit backup
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add backups/
+          git commit -m "Daily README backup $(date +%Y-%m-%d)" || echo "No changes"
+          git push

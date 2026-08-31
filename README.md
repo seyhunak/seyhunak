@@ -11,6 +11,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-seyhunak-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seyhunak/)
 [![Substack](https://img.shields.io/badge/Substack-seyhunak-FF6719?style=flat-square&logo=substack&logoColor=white)](https://seyhunak.substack.com/)
 [![GitHub followers](https://img.shields.io/github/followers/seyhunak?style=flat-square&logo=github&label=Follow)](https://github.com/seyhunak)
+[![Dev.to](https://img.shields.io/badge/Dev.to-seyhunak-0A0A0A?style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/seyhunak)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=seyhunak&show_icons=true&count_private=true&theme=default" alt="GitHub stats" />
+</p>
 
 I help organizations turn ambitious ideas into production-ready AI platforms, digital products, and scalable engineering organizations — with 20+ years across fintech, banking, and enterprise technology in the UAE and Azerbaijan.
 
@@ -77,7 +82,7 @@ I help organizations turn ambitious ideas into production-ready AI platforms, di
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-0061FF?style=for-the-badge&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0061FF?style=for-the-badge&logo=swiftui&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
 
 ### DevOps & CI/CD
@@ -88,15 +93,49 @@ I help organizations turn ambitious ideas into production-ready AI platforms, di
 
 ---
 
-## Open Source
+## Featured Projects
 
 ### [twitter-bootstrap-rails](https://github.com/seyhunak/twitter-bootstrap-rails)
 
-Maintainer and contributor supporting the Ruby on Rails ecosystem.
+Maintainer and contributor supporting the Ruby on Rails ecosystem. Bootstrap integration for Rails 8 with responsive components and asset pipeline support.
 
-[![Stars](https://img.shields.io/github/stars/seyhunak/twitter-bootstrap-rails?style=flat-square&logo=github)](https://github.com/seyhunak/twitter-bootstrap-rails/stargazers)
+### [Crafted AI Framework](https://github.com/seyhunak/craftedcode)
+
+Native AI coding terminal. A framework for building production-grade AI agents, coding assistants, and automation workflows.
+
+### [awesome-banking](https://github.com/seyhunak/awesome-banking)
+
+A curated, production-first guide to the banking domain — products, payments, security, compliance, architecture, AI, low-code/no-code, and mobile design.
 
 Browse the rest of my work at [github.com/seyhunak](https://github.com/seyhunak).
+
+---
+
+## Latest Releases
+
+<!-- RELEASES START -->
+- [1.0](https://github.com/seyhunak/craftedcode/releases/tag/1.0) — 2026-06-27
+<!-- RELEASES END -->
+
+---
+
+## Speaking & Events
+
+* **AI Delivery in Regulated Industries** — Enterprise AI architecture and governance for banking and fintech.
+* **Production Multi-Agent Systems** — Architecture patterns for enterprise AI at scale.
+* **Engineering Leadership** — Building and scaling high-performing distributed teams.
+
+More talks and appearances on my [website](https://www.seyhunakyurek.com/).
+
+---
+
+## Books & Reading
+
+* **AI at Work: Future-Proofing Your Career in the Age of Automation**
+* **Modern Fintech & Banking Transformation: A Comprehensive Guide**
+* **Invisible Colleagues: Redefining Work in the Age of AI**
+
+Full list on [Medium](https://medium.com/@seyhunak) and [Dev.to](https://dev.to/seyhunak).
 
 ---
 
@@ -109,11 +148,25 @@ I write about AI, engineering leadership, software architecture, product develop
 ## Latest Articles
 
 <!-- ARTICLES START -->
-- [Making Any Website Agent-Ready with WebMCP](https://medium.com/@seyhunak/making-any-websiteagent-ready-with-webmcp-5569adc81845?source=rss-192c1ebd2112------2)
-- [Production Multi-Agent Systems: Architecture Patterns for Enterprise AI](https://medium.com/@seyhunak/production-multi-agent-systems-architecture-patterns-for-enterprise-ai-e3ab8af62a83?source=rss-192c1ebd2112------2)
-- [AI Governance in Banking: The Playbook for Safe, Compliant, and Defensible AI](https://medium.com/@seyhunak/ai-governance-in-banking-the-playbook-for-safe-compliant-and-defensible-ai-e5c5dc6c3279?source=rss-192c1ebd2112------2)
-- [LLM-as-a-Judge: The Complete Guide to Using AI to Evaluate AI](https://medium.com/@seyhunak/llm-as-a-judge-the-complete-guide-to-using-ai-to-evaluate-ai-1f21448c8942?source=rss-192c1ebd2112------2)
-- [The Real Cost of Running LLMs in Production: A Complete Breakdown](https://medium.com/@seyhunak/the-real-cost-of-running-llms-in-production-a-complete-breakdown-982c80304a10?source=rss-192c1ebd2112------2)
+- [Making Any Website Agent-Ready with WebMCP](https://seyhunak.substack.com/p/making-any-website-agent-ready-with)
+- [Production Multi-Agent Systems: Architecture Patterns for Enterprise AI](https://seyhunak.substack.com/p/production-multi-agent-systems-architecture)
+- [AI Governance in Banking: The Playbook for Safe, Compliant, and Defensible AI](https://seyhunak.substack.com/p/ai-governance-in-banking-the-playbook)
+- [LLM-as-a-Judge: The Complete Guide to Using AI to Evaluate AI](https://seyhunak.substack.com/p/llm-as-a-judge-the-complete-guide)
+- [The Real Cost of Running LLMs in Production: A Complete Breakdown](https://seyhunak.substack.com/p/the-real-cost-of-running-llms-in)
 <!-- ARTICLES END -->
 
-<sub>Updated daily from my Medium and Substack feeds.</sub>
+<sub>Updated daily from my Substack feed.</sub>
+
+---
+
+## Latest from Dev.to
+
+<!-- DEVTO ARTICLES START -->
+- [Book: AI at Work: Future-Proofing Your Career in the Age of Automation](https://dev.to/seyhunak/book-ai-at-work-future-proofing-your-career-in-the-age-of-automation-3pok)
+- [Book: Modern Fintech & Banking Transformation: A Comprehensive Guide](https://dev.to/seyhunak/book-modern-fintech-banking-transformation-a-comprehensive-guide-3i6)
+- [Book: Invisible Colleagues: Redefining Work in the Age of AI](https://dev.to/seyhunak/book-invisible-colleagues-redefining-work-in-the-age-of-ai-3k1i)
+- [My Journey: Demystifying Core Software Engineering Concepts](https://dev.to/seyhunak/my-journey-demystifying-core-software-engineering-concepts-1hl7)
+- [Crafted AI Framework](https://dev.to/seyhunak/crafted-ai-framework-502m)
+<!-- DEVTO ARTICLES END -->
+
+<sub>Updated daily from Dev.to.</sub>
