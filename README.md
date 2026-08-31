@@ -147,13 +147,13 @@ More talks and appearances on my [website](https://www.seyhunakyurek.com/).
 * **Modern Fintech & Banking Transformation: A Comprehensive Guide**
 * **Invisible Colleagues: Redefining Work in the Age of AI**
 
-Full list on [Medium](https://medium.com/@seyhunak) and [Dev.to](https://dev.to/seyhunak).
+Full list on [Substack](https://seyhunak.substack.com/) and [Dev.to](https://dev.to/seyhunak).
 
 ---
 
 ## Writing & Publications
 
-I write about AI, engineering leadership, software architecture, product development, fintech innovation, and the future of work — on [Medium](https://medium.com/@seyhunak), [Substack](https://seyhunak.substack.com/), and [Dev.to](https://dev.to/seyhunak).
+I write about AI, engineering leadership, software architecture, product development, fintech innovation, and the future of work — on [Substack](https://seyhunak.substack.com/) and [Dev.to](https://dev.to/seyhunak).
 
 ---
 
