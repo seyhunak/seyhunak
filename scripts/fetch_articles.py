@@ -1,8 +1,11 @@
 import sys
 import feedparser
 
-# Add your Substack or Medium RSS URLs
-FEEDS = ["https://seyhunak.substack.com/feed"]
+# Add your Substack RSS URLs
+FEEDS = [
+    "https://seyhunak.substack.com/feed"
+]
+
 README = "README.md"
 START_TAG = "<!-- ARTICLES START -->"
 END_TAG = "<!-- ARTICLES END -->"
