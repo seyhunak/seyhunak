@@ -14,7 +14,7 @@
 [![Dev.to](https://img.shields.io/badge/Dev.to-seyhunak-0A0A0A?style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/seyhunak)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seyhunak&show_icons=true&count_private=true&theme=default" alt="GitHub stats" />
+  <img src="https://streak-stats.demolab.com/?user=seyhunak" alt="GitHub streak stats" />
 </p>
 
 I help organizations turn ambitious ideas into production-ready AI platforms, digital products, and scalable engineering organizations — with 20+ years across fintech, banking, and enterprise technology in the UAE and Azerbaijan.
@@ -99,13 +99,25 @@ I help organizations turn ambitious ideas into production-ready AI platforms, di
 
 Maintainer and contributor supporting the Ruby on Rails ecosystem. Bootstrap integration for Rails 8 with responsive components and asset pipeline support.
 
-### [Crafted AI Framework](https://github.com/seyhunak/craftedcode)
+### [CraftedCode](https://github.com/seyhunak/craftedcode)
 
 Native AI coding terminal. A framework for building production-grade AI agents, coding assistants, and automation workflows.
 
 ### [awesome-banking](https://github.com/seyhunak/awesome-banking)
 
 A curated, production-first guide to the banking domain — products, payments, security, compliance, architecture, AI, low-code/no-code, and mobile design.
+
+### [awesome-omarchy](https://github.com/seyhunak/awesome-omarchy)
+
+A curated, opinionated guide to Omarchy — DHH's beautiful, modern Arch Linux + Hyprland distribution. Themes, plugins, dotfiles, hardware & everything from ISO to ricing.
+
+### [awesome-bots](https://github.com/seyhunak/awesome-bots)
+
+The ultimate directory of AI bots — assistants, coding agents, web crawlers, Grok Bot setups, and automation workflows.
+
+### [awesome-job](https://github.com/seyhunak/awesome-job)
+
+A curated, production-first guide to the job market — portals, company career pages, remote boards, headhunters, interview prep, CV services & salary intel. Global + GCC/MENA/EU/US.
 
 Browse the rest of my work at [github.com/seyhunak](https://github.com/seyhunak).
 
