@@ -1,0 +1,3 @@
+# Daily README snapshots are no longer generated (daily_backup.yml removed)
+backups/
+.DS_Store
