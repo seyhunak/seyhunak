@@ -21,6 +21,12 @@ jobs:
         run: pip install feedparser
 
       - name: Fetch latest articles
+        # Substack is behind Cloudflare, which 403s GitHub-hosted runner IPs.
+        # Nothing in this repo can change that, so a blocked fetch is reported
+        # but does not fail the job nightly. The script already exits non-zero
+        # without writing when it gets nothing, so the existing list is kept
+        # either way.
+        continue-on-error: true
         run: python scripts/fetch_articles.py
 
       - name: Commit changes

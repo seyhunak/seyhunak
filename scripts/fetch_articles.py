@@ -6,11 +6,18 @@ import urllib.request
 
 import feedparser
 
-# Add your Substack RSS URLs. Each entry may declare an API fallback, used
-# when the feed itself is unreachable.
+# Substack is fronted by Cloudflare, which answers GitHub-hosted runner IPs
+# with 403. The RSS endpoint and the archive API are both refused, so each
+# source below is tried in order until one returns usable entries. Entries
+# are dicts; "url" is tried first, then each item in "fallbacks".
+#
+# The api.substack.com podcast feed was tried here and deliberately left
+# out: it resolves, but it carries podcast episodes rather than written
+# posts, so it would silently replace the list with the wrong content.
 FEEDS = [
     {
         "url": "https://seyhunak.substack.com/feed",
+        "fallbacks": [],
         "api": "https://seyhunak.substack.com/api/v1/archive?sort=new&search=",
         "title_key": "title",
         "link_key": "canonical_url",
@@ -94,20 +101,27 @@ def parse_api(url, title_key, link_key):
 
 
 def collect(spec):
-    """Prefer the feed; fall back to the API when the feed is blocked."""
-    try:
-        rows = parse_feed(spec["url"])
-        if rows:
-            return rows
-        print(f"note: {spec['url']} yielded no entries; trying API", file=sys.stderr)
-    except Exception as e:  # noqa: BLE001
-        print(f"warning: feed {spec['url']} failed: {e}", file=sys.stderr)
+    """Try each source in order; return the first that yields entries."""
+    sources = [spec["url"]] + list(spec.get("fallbacks", []))
+    for url in sources:
+        try:
+            rows = parse_feed(url)
+            if rows:
+                if url != spec["url"]:
+                    print(f"note: used fallback source {url}", file=sys.stderr)
+                return rows
+            print(f"note: {url} yielded no entries", file=sys.stderr)
+        except Exception as e:  # noqa: BLE001
+            print(f"warning: {url} failed: {e}", file=sys.stderr)
 
     api = spec.get("api")
     if not api:
         return []
     try:
-        return parse_api(api, spec.get("title_key", "title"), spec.get("link_key", "link"))
+        rows = parse_api(api, spec.get("title_key", "title"), spec.get("link_key", "link"))
+        if rows:
+            print(f"note: used API fallback {api}", file=sys.stderr)
+        return rows
     except Exception as e:  # noqa: BLE001
         print(f"warning: API {api} failed: {e}", file=sys.stderr)
         return []
