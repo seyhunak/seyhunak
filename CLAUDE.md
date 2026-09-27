@@ -7,9 +7,10 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 `seyhunak/seyhunak` is a GitHub **profile README** repository — the content rendered on https://github.com/seyhunak. There is no application, no build, no test suite, and no dependency manifest. The deliverable is `README.md`.
 
 Files:
-- `README.md` — the live profile page. Current version: AI/architecture leadership positioning, shields.io badge stack, and an auto-updated articles list.
-- `blueprint.md` — the previous generation of the profile (stats cards, trophies, `<!-- BLOG-POST-LIST -->` markers, social icon row). Kept as a reference/scratch layout, not rendered anywhere. Edits to it have no user-visible effect.
+- `README.md` — the live profile page. Current version: AI/architecture leadership positioning, shields.io badge stack, a "Currently" block, and auto-updated articles, Dev.to, and releases lists. `blueprint.md` (the previous generation of the profile) has been deleted.
 - `scripts/fetch_articles.py` — pulls RSS and rewrites the articles block in `README.md`.
+- `scripts/fetch_devto.py` — pulls the Dev.to feed and rewrites the Dev.to block.
+- `scripts/fetch_releases.py` — lists the newest release per repo in `REPOS` (`twitter-bootstrap-rails`, `craftedcode`). Prefers the GitHub Releases API but **falls back to the newest tag**, because these repos are tagged without ever cutting a formal release; querying `/releases` alone returns nothing and would empty the block.
 - `.github/workflows/update_articles.yml` — runs the script daily at 00:00 UTC and on `workflow_dispatch`, then commits as `github-actions[bot]`.
 - `assets/cubes_transparent.gif` / `cubes_white.gif` — swapped via GitHub's `#gh-dark-mode-only` / `#gh-light-mode-only` URL fragments. Both must stay in sync when either is replaced.
 
@@ -22,7 +23,7 @@ pip install feedparser
 python scripts/fetch_articles.py   # must run from the repo root — it opens "README.md" by relative path
 ```
 
-It takes the 5 newest entries from each feed in the `FEEDS` list (`seyhunak.substack.com`, `medium.com/@seyhunak`), so up to 10 lines total, and overwrites the block between the marker comments in place. Add or remove a feed by editing `FEEDS` in the script; there is no config file.
+It takes the 5 newest entries from each feed in the `FEEDS` list (`seyhunak.substack.com`), so up to 5 lines, and overwrites the block between the marker comments in place. Add or remove a feed by editing `FEEDS` in the script; there is no config file.
 
 ## The articles block
 

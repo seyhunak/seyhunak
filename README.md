@@ -19,12 +19,23 @@
 
 I help organizations turn ambitious ideas into production-ready AI platforms, digital products, and scalable engineering organizations — with 20+ years across fintech, banking, and enterprise technology in the UAE and Azerbaijan.
 
+## Currently
+
+* 🔭 Building production AI systems — RAG, agent orchestration, and LLMOps for regulated industries.
+* 🛠️ Maintaining [twitter-bootstrap-rails](https://github.com/seyhunak/twitter-bootstrap-rails) — **4.4k stars, 973 forks**, shipped through Bootstrap 2 → 5.
+* ✍️ Writing on AI, architecture, and engineering leadership — [Substack](https://seyhunak.substack.com/) and [Dev.to](https://dev.to/seyhunak).
+* 🎤 Available for speaking on enterprise AI and engineering leadership.
+* 🤝 Open to collaboration on AI and open-source projects.
+
+---
+
 ## Highlights
 
 * **Career** — 20+ years in fintech & banking across ING, eBay, Commercial Bank of Dubai, and International Bank of Azerbaijan (13+ organizations).
+* **Open source** — Maintainer of [twitter-bootstrap-rails](https://github.com/seyhunak/twitter-bootstrap-rails), one of the most-starred Ruby on Rails libraries (**4.4k stars, 973 forks**) with over a decade of continuous maintenance across major version generations.
 * **AI today** — Production AI systems for regulated industries: RAG pipelines, multi-agent orchestration, LLMOps, and real-time fraud scoring on Azure OpenAI + Anthropic.
 * **Leadership** — Cross-functional teams of 8–12 engineers; 100% on-time delivery across 12 major releases; release cycles cut from 2 weeks to 2 days; PCI DSS compliance.
-* **Credentials** — IBM & Anthropic AI certifications, 5 books, 28 certifications, 38 AI projects shipped. B.Sc. Electronics & Communication Engineering. English (C2), German (B1).
+* **Credentials** — 28 certifications including IBM and Anthropic AI credentials, 5 books, 38 AI projects shipped. B.Sc. Electronics & Communication Engineering. English (C2), German (B1).
 
 ---
 
@@ -97,7 +108,9 @@ I help organizations turn ambitious ideas into production-ready AI platforms, di
 
 ### [twitter-bootstrap-rails](https://github.com/seyhunak/twitter-bootstrap-rails)
 
-Maintainer and contributor supporting the Ruby on Rails ecosystem. Bootstrap integration for Rails 8 with responsive components and asset pipeline support.
+**4.4k stars · 973 forks** · Ruby on Rails
+
+Bootstrap integration for Rails, maintained from Bootstrap 2 through Bootstrap 5 — currently at [v5.4.0](https://github.com/seyhunak/twitter-bootstrap-rails/releases/tag/v5.4.0) with full Rails 8 and Propshaft support. Over a decade of continuous releases by the maintainer, and one of the most widely used libraries in the Ruby on Rails ecosystem.
 
 ### [CraftedCode](https://github.com/seyhunak/craftedcode)
 
@@ -126,6 +139,7 @@ Browse the rest of my work at [github.com/seyhunak](https://github.com/seyhunak)
 ## Latest Releases
 
 <!-- RELEASES START -->
+- [v5.4.0](https://github.com/seyhunak/twitter-bootstrap-rails/releases/tag/v5.4.0) — 2026-08-02
 - [1.0](https://github.com/seyhunak/craftedcode/releases/tag/1.0) — 2026-06-27
 <!-- RELEASES END -->
 
