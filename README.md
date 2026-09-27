@@ -31,9 +31,10 @@ I help organizations turn ambitious ideas into production-ready AI platforms, di
 
 ## Highlights
 
-* **Career** — 20+ years in fintech & banking across ING, eBay, Commercial Bank of Dubai, and International Bank of Azerbaijan (13+ organizations).
+* **Career** — 20+ years in fintech & banking across ING, ABB, eBay, Commercial Bank of Dubai, and International Bank of Azerbaijan (13+ organizations).
 * **Open source** — Maintainer of [twitter-bootstrap-rails](https://github.com/seyhunak/twitter-bootstrap-rails), one of the most-starred Ruby on Rails libraries (**4.4k stars, 973 forks**) with over a decade of continuous maintenance across major version generations.
-* **AI today** — Production AI systems for regulated industries: RAG pipelines, multi-agent orchestration, LLMOps, and real-time fraud scoring on Azure OpenAI + Anthropic.
+* **AI today** — Production AI systems for regulated industries: **100+ agents** in production, plus RAG pipelines, multi-agent orchestration, LLMOps, and real-time fraud scoring on Azure OpenAI + Anthropic.
+* **Published methods** — [ai-sdlc](https://github.com/seyhunak/ai-sdlc) (agentic SDLC) and [ai-delivery-playbook](https://github.com/seyhunak/ai-delivery-playbook) (enterprise AI delivery aligned to CBUAE and UAE PDPL).
 * **Leadership** — Cross-functional teams of 8–12 engineers; 100% on-time delivery across 12 major releases; release cycles cut from 2 weeks to 2 days; PCI DSS compliance.
 * **Credentials** — 28 certifications including IBM and Anthropic AI credentials, 5 books, 38 AI projects shipped. B.Sc. Electronics & Communication Engineering. English (C2), German (B1).
 
@@ -106,6 +107,18 @@ I help organizations turn ambitious ideas into production-ready AI platforms, di
 
 ## Featured Projects
 
+### [ai-sdlc](https://github.com/seyhunak/ai-sdlc)
+
+**AI-Led SDLC** · agentic-ai · spec-driven-development
+
+An AI-Led software development lifecycle reference — methodology, stack, toolkit, and skills for running an agentic SDLC. A synthesis of AWS AI-DLC, spec-driven governance, and Azure + GitHub agentic implementation.
+
+### [ai-delivery-playbook](https://github.com/seyhunak/ai-delivery-playbook)
+
+**AI Delivery Playbook** · regulated banking · CBUAE · UAE PDPL
+
+The delivery counterpart to `ai-sdlc`: an enterprise playbook for delivering generative AI in regulated banking, aligned to **CBUAE** and **UAE PDPL** requirements. Centralizes governance, architecture, delivery, and operational-readiness documentation, with decision points traceable from use-case approval through release and monitoring.
+
 ### [twitter-bootstrap-rails](https://github.com/seyhunak/twitter-bootstrap-rails)
 
 **4.4k stars · 973 forks** · Ruby on Rails
@@ -116,21 +129,26 @@ Bootstrap integration for Rails, maintained from Bootstrap 2 through Bootstrap 5
 
 Native AI coding terminal. A framework for building production-grade AI agents, coding assistants, and automation workflows.
 
-### [awesome-banking](https://github.com/seyhunak/awesome-banking)
+### [awesome-ai](https://github.com/seyhunak/awesome-ai)
 
-A curated, production-first guide to the banking domain — products, payments, security, compliance, architecture, AI, low-code/no-code, and mobile design.
+A curated list of Enterprise AI, LLMs, GenAI, AI agents, MCP, governance, security, MLOps, and production-ready AI tools.
 
-### [awesome-omarchy](https://github.com/seyhunak/awesome-omarchy)
+### [mnemosyne](https://github.com/seyhunak/mnemosyne)
 
-A curated, opinionated guide to Omarchy — DHH's beautiful, modern Arch Linux + Hyprland distribution. Themes, plugins, dotfiles, hardware & everything from ISO to ricing.
+**Local-first AI memory** · Python · Obsidian-native
 
-### [awesome-bots](https://github.com/seyhunak/awesome-bots)
+Persistent memory for AI applications. Notes live as plain `.md` files on disk — readable by agents, editable in Obsidian, owned by you. Retrieval is BM25-ranked full-text search over a SQLite index that can be rebuilt and deleted at any time without losing a byte. No server, no embedding model, no vendor; one dependency.
 
-The ultimate directory of AI bots — assistants, coding agents, web crawlers, Grok Bot setups, and automation workflows.
+---
 
-### [awesome-job](https://github.com/seyhunak/awesome-job)
+## Curated Guides
 
-A curated, production-first guide to the job market — portals, company career pages, remote boards, headhunters, interview prep, CV services & salary intel. Global + GCC/MENA/EU/US.
+Long-running reference lists I maintain across the domains I work in.
+
+* **[awesome-banking](https://github.com/seyhunak/awesome-banking)** — the banking domain: products, payments, security, compliance, architecture, AI, low-code/no-code, and mobile design.
+* **[awesome-bots](https://github.com/seyhunak/awesome-bots)** — a directory of AI bots: assistants, coding agents, web crawlers, and automation workflows.
+* **[awesome-omarchy](https://github.com/seyhunak/awesome-omarchy)** — an opinionated guide to Omarchy: themes, plugins, dotfiles, hardware, and everything from ISO to ricing.
+* **[awesome-job](https://github.com/seyhunak/awesome-job)** — the job market: portals, company career pages, remote boards, headhunters, interview prep, CV services, and salary intel across GCC/MENA/EU/US.
 
 Browse the rest of my work at [github.com/seyhunak](https://github.com/seyhunak).
 
