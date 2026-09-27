@@ -1,3 +1,4 @@
+import json
 import re
 import sys
 import time
@@ -5,9 +6,15 @@ import urllib.request
 
 import feedparser
 
-# Add your Substack RSS URLs
+# Add your Substack RSS URLs. Each entry may declare an API fallback, used
+# when the feed itself is unreachable.
 FEEDS = [
-    "https://seyhunak.substack.com/feed"
+    {
+        "url": "https://seyhunak.substack.com/feed",
+        "api": "https://seyhunak.substack.com/api/v1/archive?sort=new&search=",
+        "title_key": "title",
+        "link_key": "canonical_url",
+    },
 ]
 
 README = "README.md"
@@ -54,8 +61,8 @@ def fetch(url, attempts=3):
     raise last
 
 
-def parse(url):
-    """Return up to 5 entries, tolerating a bozo parse if entries survived."""
+def parse_feed(url):
+    """Return up to 5 entries from an RSS/Atom feed, or [] if unreachable."""
     raw = fetch(url)
     feed = feedparser.parse(raw)
     if feed.bozo:
@@ -63,17 +70,54 @@ def parse(url):
             f"warning: {url} parsed with warnings: {feed.bozo_exception}",
             file=sys.stderr,
         )
-    return feed.entries[:5]
+    return [
+        (e.get("title"), e.get("link")) for e in feed.entries[:5] if e.get("link")
+    ]
+
+
+def parse_api(url, title_key, link_key):
+    """Fallback: Substack's archive endpoint returns the same posts as JSON.
+
+    Cloudflare answers GitHub-hosted runner IPs with 403 on /feed, and no
+    amount of retrying or header spoofing changes that. The API path is not
+    blocked, so it keeps the nightly list alive when the feed is refused.
+    """
+    raw = fetch(url)
+    posts = json.loads(raw.decode("utf-8", "replace"))
+    if not isinstance(posts, list):
+        return []
+    return [
+        (p.get(title_key), p.get(link_key))
+        for p in posts[:5]
+        if isinstance(p, dict) and p.get(link_key)
+    ]
+
+
+def collect(spec):
+    """Prefer the feed; fall back to the API when the feed is blocked."""
+    try:
+        rows = parse_feed(spec["url"])
+        if rows:
+            return rows
+        print(f"note: {spec['url']} yielded no entries; trying API", file=sys.stderr)
+    except Exception as e:  # noqa: BLE001
+        print(f"warning: feed {spec['url']} failed: {e}", file=sys.stderr)
+
+    api = spec.get("api")
+    if not api:
+        return []
+    try:
+        return parse_api(api, spec.get("title_key", "title"), spec.get("link_key", "link"))
+    except Exception as e:  # noqa: BLE001
+        print(f"warning: API {api} failed: {e}", file=sys.stderr)
+        return []
 
 
 latest_articles = []
 
-for feed_url in FEEDS:
-    try:
-        for entry in parse(feed_url):
-            latest_articles.append(f"- [{entry.title}]({entry.link})")
-    except Exception as e:  # noqa: BLE001 - one bad feed must not kill the rest
-        print(f"warning: could not fetch {feed_url}: {e}", file=sys.stderr)
+for spec in FEEDS:
+    for title, link in collect(spec):
+        latest_articles.append(f"- [{title or 'Untitled'}]({link})")
 
 # A transient feed outage must not silently wipe the existing list.
 if not latest_articles:
