@@ -6,6 +6,8 @@
 
 **AI Delivery Lead • Enterprise Architect • Engineering Leader**
 
+[![/dev/null activity](https://dev-null.sh/@seyhunak/graph.svg?theme=auto)](https://dev-null.sh/@seyhunak)
+
 [![Website](https://img.shields.io/badge/Website-seyhunakyurek.com-0A0A0A?style=flat-square&logo=googlechrome&logoColor=white)](https://www.seyhunakyurek.com/)
 [![Resume](https://img.shields.io/badge/Resume-seyhunakyurek.com%2Fresume-0A0A0A?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://seyhunakyurek.com/resume)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-seyhunak-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seyhunak/)
