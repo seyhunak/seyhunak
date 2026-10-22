@@ -208,11 +208,11 @@ I write about AI, engineering leadership, software architecture, product develop
 ## Latest from Dev.to
 
 <!-- DEVTO ARTICLES START -->
-- [Book: AI at Work: Future-Proofing Your Career in the Age of Automation](https://dev.to/seyhunak/book-ai-at-work-future-proofing-your-career-in-the-age-of-automation-3pok)
-- [Book: Modern Fintech & Banking Transformation: A Comprehensive Guide](https://dev.to/seyhunak/book-modern-fintech-banking-transformation-a-comprehensive-guide-3i6)
-- [Book: Invisible Colleagues: Redefining Work in the Age of AI](https://dev.to/seyhunak/book-invisible-colleagues-redefining-work-in-the-age-of-ai-3k1i)
 - [My Journey: Demystifying Core Software Engineering Concepts](https://dev.to/seyhunak/my-journey-demystifying-core-software-engineering-concepts-1hl7)
-- [Crafted AI Framework](https://dev.to/seyhunak/crafted-ai-framework-502m)
+- [Effects in long term of AI Technology and Impact of Software Development Industry](https://dev.to/seyhunak/effects-in-long-term-of-ai-technology-and-impact-of-software-development-industry-1ddo)
+- [Understanding In-App Provisioning and Digital Tokenization with Visa](https://dev.to/seyhunak/understanding-in-app-provisioning-and-digital-tokenization-with-visa-1gfp)
+- [Buy Now, Pay Later (BNPL) - How It Works, Benefits and Design](https://dev.to/seyhunak/buy-now-pay-later-bnpl-how-it-works-benefits-and-design-19h5)
+- [Software Development Managers And Improving Communication With The Teams](https://dev.to/seyhunak/software-development-managers-and-improving-communication-with-the-teams-36mg)
 <!-- DEVTO ARTICLES END -->
 
 <sub>Updated daily from Dev.to.</sub>
