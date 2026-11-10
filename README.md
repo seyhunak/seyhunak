@@ -159,7 +159,7 @@ Browse the rest of my work at [github.com/seyhunak](https://github.com/seyhunak)
 ## Latest Releases
 
 <!-- RELEASES START -->
-- [v5.5.0](https://github.com/seyhunak/twitter-bootstrap-rails/releases/tag/v5.5.0) — 2026-11-06
+- [v5.5.1](https://github.com/seyhunak/twitter-bootstrap-rails/releases/tag/v5.5.1) — 2026-11-09
 - [1.0](https://github.com/seyhunak/craftedcode/releases/tag/1.0) — 2026-06-27
 <!-- RELEASES END -->
 
