@@ -194,11 +194,11 @@ I write about AI, engineering leadership, software architecture, product develop
 ## Latest Articles
 
 <!-- ARTICLES START -->
+- [Triaging 25 invoices with Clef is a 27B multimodal decision model from Cloudflare](https://seyhunak.substack.com/p/triaging-25-invoices-with-clef-is)
+- [The bottleneck moved to the reviewers. You are not hiring them.](https://seyhunak.substack.com/p/the-bottleneck-moved-to-the-reviewers)
 - [Making Any Website Agent-Ready with WebMCP](https://seyhunak.substack.com/p/making-any-website-agent-ready-with)
 - [Production Multi-Agent Systems: Architecture Patterns for Enterprise AI](https://seyhunak.substack.com/p/production-multi-agent-systems-architecture)
 - [AI Governance in Banking: The Playbook for Safe, Compliant, and Defensible AI](https://seyhunak.substack.com/p/ai-governance-in-banking-the-playbook)
-- [LLM-as-a-Judge: The Complete Guide to Using AI to Evaluate AI](https://seyhunak.substack.com/p/llm-as-a-judge-the-complete-guide)
-- [The Real Cost of Running LLMs in Production: A Complete Breakdown](https://seyhunak.substack.com/p/the-real-cost-of-running-llms-in)
 <!-- ARTICLES END -->
 
 <sub>Updated daily from my Substack feed.</sub>
